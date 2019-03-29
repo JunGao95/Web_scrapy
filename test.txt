@@ -1,12 +1,10 @@
 ﻿<html><head>
 <meta charset="UTF-8">
 
-
-
-<title>专门为大学生准备的实习职位 | 实习僧</title>
-<meta name="description" content="实习僧是国内领先的实习招聘平台，专注于实习招聘，为大学生提供最全面的实习招聘信息，最良好的职业发展机会，让实习更轻松，实习找工作就上实习僧招聘网">
-<meta name="keywords" content="实习,实习生招聘,实习生招聘网">
-
+<title>教务助理实习生招聘_17Career(一起求职)实习生招聘 | 实习僧</title>
+<meta name="description" content="实习僧是国内领先的实习生招聘平台，为您提供最新教务助理实习生招聘信息，教务助理实习生招聘信息，教务助理
+求职信息，了解最新教务助理实习生岗位要求、岗位职责、公司介绍，找教务助理实习上实习僧">
+<meta name="keywords" content="教务助理实习生招聘，最新教务助理实习生招聘信息，教务助理实习生招聘网">
 
 <meta name="sogou_site_verification" content="Xs9pZRBFow">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -100,54 +98,73 @@ display: none !important;
 }
 </style>
 
-<link rel="alternate" media="only screen and (max-width: 750px)" href="http://wap.shixiseng.com/interns">
-<link rel="stylesheet" href="https://sxsimg.xiaoyuanzhao.com/static/new_main/css/search-list2/base.css?v=1d23ee6eba941e816c1ca65b03fbb03c">
-<link rel="stylesheet" href="https://sxsimg.xiaoyuanzhao.com/static/new_main/css/search-list2/search-list2.css?v=d00f598819ded66f983b84bdc68e10b5">
-<link rel="stylesheet" href="https://sxsimg.xiaoyuanzhao.com/static/new_main/css/pagebar.css?v=ec6b5190a5b9e42bf8e5db3fabfdd511">
-
+<link rel="alternate" media="only screen and (max-width: 750px)" href="http://wap.shixiseng.com/intern/inn_43ci5nyosovy">
+<link rel="stylesheet" href="https://sxsimg.xiaoyuanzhao.com/static/css/job_details.css?v=ede4ccb215f753a1cd15c57f41b9e320">
+<link rel="stylesheet" type="text/css" href="https://sxsimg.xiaoyuanzhao.com/static/css/jquery.datetimepicker.css?v=22baa8aa2e0e17c6f0aacea433dc4737">
+<link rel="stylesheet" type="text/css" href="https://sxsimg.xiaoyuanzhao.com/static/css/hzw-city-picker.css?v=e1b72704981131e49cdd3a1b4ff8f5ad">
+<link rel="stylesheet" href="https://sxsimg.xiaoyuanzhao.com/static/css/webuploader.css?v=f70bf56e981d9379d6387fd25e0218bf">
+<link rel="stylesheet" href="https://sxsimg.xiaoyuanzhao.com/static/new_main/css/new_job_info.css?v=88783c54ad84071e9e6a50e7f5d9ee75">
 <style>
 @font-face {font-family:myFont; src: url("data:application/octet-stream;base64,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")}
-.position-box .position .position-center .position-list-box .position-item .position-info .info2 span:first-child {
-background-image: url("https://sxsimg.xiaoyuanzhao.com/static/new_main/img/search-list2/icon1-1.png?v=4f943e8dda2f02617f7268ae0cdf9b6d");
-}
-.position-box .position .position-center .position-list-box .position-item .position-info .info2 span:nth-child(2) {
-background-image: url("https://sxsimg.xiaoyuanzhao.com/static/new_main/img/search-list2/icon2-1.png?v=cc93b0163e8537d4d84f9abd9e5135b6");
-}
-.position-box .position .position-center .position-list-box .position-item .position-info .info2 span:nth-child(3) {
-background-image: url("https://sxsimg.xiaoyuanzhao.com/static/new_main/img/search-list2/icon3-1.png?v=0c298a3ba7c435fd3891ec6dbca57f68");
-}
-/*.position-box .position .position-center ul.position-list li .info2 .area {*/
-/*background: url("https://sxsimg.xiaoyuanzhao.com/static/new_main/img/search-list2/icon1.png?v=d48ec07cec9ddecce51147cecd216171") left center no-repeat;*/
-/*}*/
-/*.position-box .position .position-center ul.position-list li .info2 .more span:first-child {*/
-/*background-image: url("https://sxsimg.xiaoyuanzhao.com/static/new_main/img/search-list2/icon2.png?v=fac8e686636c06166246f62531a07b56");*/
-/*}*/
-/*.position-box .position .position-center ul.position-list li .info2 .more span:nth-child(2) {*/
-/*background-image: url("https://sxsimg.xiaoyuanzhao.com/static/new_main/img/search-list2/icon3.png?v=2f3bd39eae1f92a6852388ff53e2f5e7");*/
-/*}*/
-/*.position-box .position .position-center ul.position-list li .info2 .more span:nth-child(3) {*/
-/*background-image: url("https://sxsimg.xiaoyuanzhao.com/static/new_main/img/search-list2/icon4.png?v=c6726c9ad768ef881bb73ec1dba5e120");*/
-/*}*/
-.font{
-font-family: myFont,PingFang SC,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif;
-}
-.winter {
-display: inline-block;
-cursor: pointer;
-background: url(https://sxsimg.xiaoyuanzhao.com/static/new_main/img/han-font-icon.png?v=21aee68d0f2f8778afe1196a173501ef) no-repeat center/contain;
-width: 18px;
-height: 18px;
-margin: 0 0 0 10px;
-vertical-align: middle;
-float: left;
-}
-.position-box .filter-box .line.active-last {
-left: 167px;
-width: 45px;
-}
 </style>
+<style>
+.hzw-city-picker:before,
+.hzw-city-picker:after
+{
+display: none;
+}
+.hzw-city-picker{
+left: 0 !important;
+right: 0 !important;
+top: 50% !important;
+bottom: 0 !important;
+margin: -170px auto 0 !important;
+height: 340px !important;
+}
+.job_introduce *{
+font-size: 16px!important;
+line-height: 24px!important;
+color: #333!important;
+}
+.job_introduce .job_til{
+font-size: 20px!important;
+}
+.job_introduce img{
+max-width: 760px!important;
+}
+body{
+}
+.job-header .job_msg .job_money:before {
+background-image: url(https://sxsimg.xiaoyuanzhao.com/static/new_main/img/job_icon_money.png?v=ba9e392de6559a12c2e9a548b44c8317);
+}
+.job-header .job_msg .job_position:before {
+background-image: url(https://sxsimg.xiaoyuanzhao.com/static/new_main/img/job_icon_position.png?v=b249e94fa6128700823fb28df84740fb);
+}
+.job-header .job_msg .job_academic:before {
+background-image: url(https://sxsimg.xiaoyuanzhao.com/static/new_main/img/job_icon_academic.png?v=db786285ca9196b3f2ef7752bbeb9725);
+}
+.job-header .job_msg .job_week:before {
+background-image: url(https://sxsimg.xiaoyuanzhao.com/static/new_main/img/job_icon_date.png?v=d304cd7207b37332f36947d732b12115);
+}
+.job-header .job_msg .job_time:before {
+background-image: url(https://sxsimg.xiaoyuanzhao.com/static/new_main/img/job_icon_tag.png?v=0dd665b75bd4f78b1d577b23a3448547);
+}
+.content_right .job_collect .job_star {
+background-image: url(https://sxsimg.xiaoyuanzhao.com/static/new_main/img/job_icon_star.png?v=ba53649606c962ff9927eeea7a39f95a);
+}
+.content_right .sc_confirm .job_star{
+background-image: url(https://sxsimg.xiaoyuanzhao.com/static/new_main/img/job_icon_star_active.png?v=2cea929838b36eb8951ccdcdeb20e039);
+}
+/*.content_left .con-com_introduce .job_com_position .com_position:before {*/
+/*background-image: url(https://sxsimg.xiaoyuanzhao.com/static/new_main/img/job_com_position.png?v=95af7d3136f822aeb0fd2c587badd57a);*/
+/*}*/
+</style>
+<script async="" charset="UTF-8" src="//static.meiqia.com/dist/meiqia.js?_=t"></script><script src="https://hm.baidu.com/hm.js?03465902f492a43ee3eb3543d81eba55"></script><script type="text/javascript" async="" src="https://dn-growing.qbox.me/vds.js"></script><script>
+window.is_job_details = true;
+</script>
+<link rel="stylesheet" href="https://sxsimg.xiaoyuanzhao.com/static/js/sxs.jq.modal/sxs.jq.modal.css?v=07ead862b554597697786e04494d2da9">
 
-<script async="" charset="UTF-8" src="//static.meiqia.com/dist/meiqia.js?_=t"></script><script src="https://hm.baidu.com/hm.js?03465902f492a43ee3eb3543d81eba55"></script><script type="text/javascript" async="" src="https://dn-growing.qbox.me/vds.js"></script><script type="text/javascript">
+<script type="text/javascript">
 var _vds = _vds || [];
 window._vds = _vds;
 (function(){
@@ -183,13 +200,13 @@ s.parentNode.insertBefore(hm, s);
 })();
 </script>
 
-<link rel="stylesheet" href="https://sxsimg.xiaoyuanzhao.com/static/js/cite/layer/skin/layer.css" id="layui_layer_skinlayercss" style=""><style>[data-toast-loading]>div>p{    margin: 0;    line-height: 50px;    font-size: 18px;}[data-toast-loading]>div>div{    background:url(//sxsimg.xiaoyuanzhao.com/61/91/61502F62D2B86D8B6882B83377BB5691.png) no-repeat center;    width: 25%;    height: 50%;    margin: 50px auto 0;    background-size: contain;    -webkit-animation: qb-jq-toast-loading 1s linear infinite;    -o-animation: qb-jq-toast-loading 1s linear infinite;    animation: qb-jq-toast-loading 1s linear infinite;}[data-toast-loading]{    position: fixed;    z-index: 110;    width: 100%;    height: 100%;    top:0;    left:0;    display: none;    overflow: hidden;}[data-toast-loading]>div{    z-index: 111;width:200px;height:200px;    position: absolute;top:0;left:0;right:0;bottom:0;margin:auto;    color:#fff;    -webkit-border-radius: 10px;-moz-border-radius: 10px;border-radius: 10px;    background:rgba(0,0,0,.6);    text-align:center;}@keyframes qb-jq-toast-loading {    0%{        -webkit-transform: rotate(0deg);        -moz-transform: rotate(0deg);        -ms-transform: rotate(0deg);        -o-transform: rotate(0deg);        transform: rotate(0deg);    }    100%{        -webkit-transform: rotate(360deg);        -moz-transform: rotate(360deg);        -ms-transform: rotate(360deg);        -o-transform: rotate(360deg);        transform: rotate(360deg);}}@-ms-keyframes qb-jq-toast-loading {    0%{        -webkit-transform: rotate(0deg);        -moz-transform: rotate(0deg);        -ms-transform: rotate(0deg);        -o-transform: rotate(0deg);        transform: rotate(0deg);    }    100%{        -webkit-transform: rotate(360deg);        -moz-transform: rotate(360deg);        -ms-transform: rotate(360deg);        -o-transform: rotate(360deg);        transform: rotate(360deg);}}@-moz-keyframes qb-jq-toast-loading {    0%{        -webkit-transform: rotate(0deg);        -moz-transform: rotate(0deg);        -ms-transform: rotate(0deg);        -o-transform: rotate(0deg);        transform: rotate(0deg);    }    100%{        -webkit-transform: rotate(360deg);        -moz-transform: rotate(360deg);        -ms-transform: rotate(360deg);        -o-transform: rotate(360deg);        transform: rotate(360deg);}}@-o-keyframes qb-jq-toast-loading {    0%{        -webkit-transform: rotate(0deg);        -moz-transform: rotate(0deg);        -ms-transform: rotate(0deg);        -o-transform: rotate(0deg);        transform: rotate(0deg);    }    100%{        -webkit-transform: rotate(360deg);        -moz-transform: rotate(360deg);        -ms-transform: rotate(360deg);        -o-transform: rotate(360deg);        transform: rotate(360deg);}}@-khtml-keyframes qb-jq-toast-loading {    0%{        -webkit-transform: rotate(0deg);        -moz-transform: rotate(0deg);        -ms-transform: rotate(0deg);        -o-transform: rotate(0deg);        transform: rotate(0deg);    }    100%{        -webkit-transform: rotate(360deg);        -moz-transform: rotate(360deg);        -ms-transform: rotate(360deg);        -o-transform: rotate(360deg);        transform: rotate(360deg);}}@-webkit-keyframes qb-jq-toast-loading {    0%{        -webkit-transform: rotate(0deg);        -moz-transform: rotate(0deg);        -ms-transform: rotate(0deg);        -o-transform: rotate(0deg);        transform: rotate(0deg);    }    100%{        -webkit-transform: rotate(360deg);        -moz-transform: rotate(360deg);        -ms-transform: rotate(360deg);        -o-transform: rotate(360deg);        transform: rotate(360deg);}}</style><script src="chrome-extension://ocggccaacacpienfcgmgcihoombokbbj/pages/client/livestartpage-message-add.js"></script><style type="text/css" id="MEIQIA-BTN-STYLE">#MEIQIA-BTN-HOLDER { display: none; position: fixed; bottom: 20px;  right: 60px;  z-index: 2147483647; width: auto; height: auto; padding: 0; margin: 0; border: 0; font-family: 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif; background-color: transparent; } #MEIQIA-BTN, #MEIQIA-BTN span, #MEIQIA-BTN div, #MEIQIA-BTN img { float: none; width: auto; height: auto; padding: 0; margin: 0; border: 0; background: none; } #MEIQIA-BTN { display: block; width: 60px; height: 60px; border: 1px solid rgba(0, 0, 0, .1); border-radius: 31px; box-shadow: 0 0 14px 0 rgba(0, 0, 0, .16); cursor: pointer; text-decoration: none; background-color: #007aff; } #MEIQIA-BTN #MEIQIA-BTN-ICON { position: absolute; top: 15px; left: 15px; width: 32px; height: 32px; } #MEIQIA-BTN #MEIQIA-CIRCLE { position: absolute; display: none; width: 26px; height: 26px; text-align: center; line-height: 26px; font-size: 14px; color: #fff; border-radius: 15px; background-color: #ff3b30; } #MEIQIA-BTN #MEIQIA-BUBBLE { position: absolute; /*top: 50%;*/ bottom: 0; display: none; width: 260px; margin-top: -48px; border: 1px solid #f7f7f7; border-radius: 4px; color: #000; text-align: left; box-shadow: 0 0 14px 0 rgba(0, 0, 0, .16); line-height: 1.428571429; background-color: #fff; } #MEIQIA-BTN #MEIQIA-BUBBLE-ARROW1 { position: absolute; z-index: 2; font-size: 0; line-height: 0; } #MEIQIA-BTN #MEIQIA-BUBBLE-ARROW2 { position: absolute; z-index: 1; font-size: 0; line-height: 0; }  #MEIQIA-BTN #MEIQIA-CIRCLE { top: -10px; left: -10px; } #MEIQIA-BTN #MEIQIA-BUBBLE { right: 74px; } #MEIQIA-BTN #MEIQIA-BUBBLE-ARROW1 { right: -8px; /*top: 42px;*/ bottom: 20px; border-top: 7px solid transparent; border-bottom: 7px solid transparent; border-left: 8px solid #fff; } #MEIQIA-BTN #MEIQIA-BUBBLE-ARROW2 { right: -10px; /*top: 43px;*/ bottom: 21px; border-top: 8px solid transparent; border-bottom: 8px solid transparent; border-left: 9px solid #f7f7f7; }  #MEIQIA-BTN #MEIQIA-BUBBLE-CLOSE { position: absolute; display: none; top: 12px; right: 12px; width: 10px; height: 10px; background-position: -5px -245px; cursor: pointer; } #MEIQIA-BTN #MEIQIA-BUBBLE:hover #MEIQIA-BUBBLE-CLOSE { display: block; } #MEIQIA-BTN #MEIQIA-BUBBLE-INSIDE { margin: 12px 18px; } #MEIQIA-BTN #MEIQIA-BUBBLE-AVATAR { width: 26px; height: 26px; border-radius: 13px; margin-right: 6px; vertical-align: top; box-shadow: 0 0 8px 0 rgba(0, 0, 0, .15); } #MEIQIA-BTN #MEIQIA-BUBBLE-NAME { display: inline-block; margin-top: 3px; font-size: 16px; color: #000; } #MEIQIA-BTN #MEIQIA-BUBBLE-MSG { height: 40px; margin-top: 5px; font-size: 14px; overflow: hidden; color: #000; } #MEIQIA-BTN #MEIQIA-BUBBLE-MSG img { width: 16px; height: 16px; } </style><style type="text/css" id="MEIQIA-ICON-STYLE">.MEIQIA-ICON { background-size: 64px auto !important; background-repeat: no-repeat !important; background-image: url('https://resource.meiqia.com/dist/images/icon-mq-round.png?v=jr232x2r3') !important; } @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2) { .MEIQIA-ICON { background-image: url('https://resource.meiqia.com/dist/images/icon-mq-round@2x.png?v=jr232x2r3') !important; } } .MEIQIA-ICON-CHAT1 { background-position: 0 0 !important; } .MEIQIA-ICON-CHAT2 { background-position: 0 -32px !important; } .MEIQIA-ICON-CHAT3 { background-position: 0 -64px !important; } .MEIQIA-ICON-CHAT4 { background-position: 0 -96px !important; } .MEIQIA-ICON-CHAT5 { background-position: 0 -128px !important; } .MEIQIA-ICON-CHAT6 { background-position: 0 -160px !important; } .MEIQIA-ICON-CHAT7 { background-position: 0 -224px !important; } .MEIQIA-ICON-CHAT8 { background-position: 0 -256px !important; } .MEIQIA-ICON-CHAT9 { background-position: 0 -288px !important; } .MEIQIA-ICON-CHAT10 { background-position: 0 -320px !important; } .MEIQIA-ICON-CHAT11 { background-position: 0 -352px !important; } .MEIQIA-ICON-CHAT12 { background-position: 0 -384px !important; } .MEIQIA-ICON-TICKET1 { background-position: -32px 0 !important; } .MEIQIA-ICON-TICKET2 { background-position: -32px -32px !important; } .MEIQIA-ICON-TICKET3 { background-position: -32px -64px !important; } .MEIQIA-ICON-TICKET4 { background-position: -32px -96px !important; } .MEIQIA-ICON-TICKET5 { background-position: -32px -128px !important; } .MEIQIA-ICON-TICKET6 { background-position: -32px -160px !important; } .MEIQIA-ICON-TICKET7 { background-position: -32px -224px !important; } .MEIQIA-ICON-TICKET8 { background-position: -32px -256px !important; } .MEIQIA-ICON-TICKET9 { background-position: -32px -288px !important; } .MEIQIA-ICON-TICKET10 { background-position: -32px -320px !important; } .MEIQIA-ICON-TICKET11 { background-position: -32px -352px !important; } .MEIQIA-ICON-TICKET12 { background-position: -32px -384px !important; } .MEIQIA-ICON-CALL { background-position: -32px -448px !important; } </style></head>
+<script src="/static/api/js/share.js?v=89860593.js?cdnversion=431629"></script><link rel="stylesheet" href="https://sxsimg.xiaoyuanzhao.com/static/js/cite/layer/skin/layer.css" id="layui_layer_skinlayercss" style=""><style>[data-toast-loading]>div>p{    margin: 0;    line-height: 50px;    font-size: 18px;}[data-toast-loading]>div>div{    background:url(//sxsimg.xiaoyuanzhao.com/61/91/61502F62D2B86D8B6882B83377BB5691.png) no-repeat center;    width: 25%;    height: 50%;    margin: 50px auto 0;    background-size: contain;    -webkit-animation: qb-jq-toast-loading 1s linear infinite;    -o-animation: qb-jq-toast-loading 1s linear infinite;    animation: qb-jq-toast-loading 1s linear infinite;}[data-toast-loading]{    position: fixed;    z-index: 110;    width: 100%;    height: 100%;    top:0;    left:0;    display: none;    overflow: hidden;}[data-toast-loading]>div{    z-index: 111;width:200px;height:200px;    position: absolute;top:0;left:0;right:0;bottom:0;margin:auto;    color:#fff;    -webkit-border-radius: 10px;-moz-border-radius: 10px;border-radius: 10px;    background:rgba(0,0,0,.6);    text-align:center;}@keyframes qb-jq-toast-loading {    0%{        -webkit-transform: rotate(0deg);        -moz-transform: rotate(0deg);        -ms-transform: rotate(0deg);        -o-transform: rotate(0deg);        transform: rotate(0deg);    }    100%{        -webkit-transform: rotate(360deg);        -moz-transform: rotate(360deg);        -ms-transform: rotate(360deg);        -o-transform: rotate(360deg);        transform: rotate(360deg);}}@-ms-keyframes qb-jq-toast-loading {    0%{        -webkit-transform: rotate(0deg);        -moz-transform: rotate(0deg);        -ms-transform: rotate(0deg);        -o-transform: rotate(0deg);        transform: rotate(0deg);    }    100%{        -webkit-transform: rotate(360deg);        -moz-transform: rotate(360deg);        -ms-transform: rotate(360deg);        -o-transform: rotate(360deg);        transform: rotate(360deg);}}@-moz-keyframes qb-jq-toast-loading {    0%{        -webkit-transform: rotate(0deg);        -moz-transform: rotate(0deg);        -ms-transform: rotate(0deg);        -o-transform: rotate(0deg);        transform: rotate(0deg);    }    100%{        -webkit-transform: rotate(360deg);        -moz-transform: rotate(360deg);        -ms-transform: rotate(360deg);        -o-transform: rotate(360deg);        transform: rotate(360deg);}}@-o-keyframes qb-jq-toast-loading {    0%{        -webkit-transform: rotate(0deg);        -moz-transform: rotate(0deg);        -ms-transform: rotate(0deg);        -o-transform: rotate(0deg);        transform: rotate(0deg);    }    100%{        -webkit-transform: rotate(360deg);        -moz-transform: rotate(360deg);        -ms-transform: rotate(360deg);        -o-transform: rotate(360deg);        transform: rotate(360deg);}}@-khtml-keyframes qb-jq-toast-loading {    0%{        -webkit-transform: rotate(0deg);        -moz-transform: rotate(0deg);        -ms-transform: rotate(0deg);        -o-transform: rotate(0deg);        transform: rotate(0deg);    }    100%{        -webkit-transform: rotate(360deg);        -moz-transform: rotate(360deg);        -ms-transform: rotate(360deg);        -o-transform: rotate(360deg);        transform: rotate(360deg);}}@-webkit-keyframes qb-jq-toast-loading {    0%{        -webkit-transform: rotate(0deg);        -moz-transform: rotate(0deg);        -ms-transform: rotate(0deg);        -o-transform: rotate(0deg);        transform: rotate(0deg);    }    100%{        -webkit-transform: rotate(360deg);        -moz-transform: rotate(360deg);        -ms-transform: rotate(360deg);        -o-transform: rotate(360deg);        transform: rotate(360deg);}}</style><link rel="stylesheet" href="/static/api/css/share_style1_24.css"><script src="chrome-extension://ocggccaacacpienfcgmgcihoombokbbj/pages/client/livestartpage-message-add.js"></script><style type="text/css" id="MEIQIA-BTN-STYLE">#MEIQIA-BTN-HOLDER { display: none; position: fixed; bottom: 20px;  right: 60px;  z-index: 2147483647; width: auto; height: auto; padding: 0; margin: 0; border: 0; font-family: 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif; background-color: transparent; } #MEIQIA-BTN, #MEIQIA-BTN span, #MEIQIA-BTN div, #MEIQIA-BTN img { float: none; width: auto; height: auto; padding: 0; margin: 0; border: 0; background: none; } #MEIQIA-BTN { display: block; width: 60px; height: 60px; border: 1px solid rgba(0, 0, 0, .1); border-radius: 31px; box-shadow: 0 0 14px 0 rgba(0, 0, 0, .16); cursor: pointer; text-decoration: none; background-color: #007aff; } #MEIQIA-BTN #MEIQIA-BTN-ICON { position: absolute; top: 15px; left: 15px; width: 32px; height: 32px; } #MEIQIA-BTN #MEIQIA-CIRCLE { position: absolute; display: none; width: 26px; height: 26px; text-align: center; line-height: 26px; font-size: 14px; color: #fff; border-radius: 15px; background-color: #ff3b30; } #MEIQIA-BTN #MEIQIA-BUBBLE { position: absolute; /*top: 50%;*/ bottom: 0; display: none; width: 260px; margin-top: -48px; border: 1px solid #f7f7f7; border-radius: 4px; color: #000; text-align: left; box-shadow: 0 0 14px 0 rgba(0, 0, 0, .16); line-height: 1.428571429; background-color: #fff; } #MEIQIA-BTN #MEIQIA-BUBBLE-ARROW1 { position: absolute; z-index: 2; font-size: 0; line-height: 0; } #MEIQIA-BTN #MEIQIA-BUBBLE-ARROW2 { position: absolute; z-index: 1; font-size: 0; line-height: 0; }  #MEIQIA-BTN #MEIQIA-CIRCLE { top: -10px; left: -10px; } #MEIQIA-BTN #MEIQIA-BUBBLE { right: 74px; } #MEIQIA-BTN #MEIQIA-BUBBLE-ARROW1 { right: -8px; /*top: 42px;*/ bottom: 20px; border-top: 7px solid transparent; border-bottom: 7px solid transparent; border-left: 8px solid #fff; } #MEIQIA-BTN #MEIQIA-BUBBLE-ARROW2 { right: -10px; /*top: 43px;*/ bottom: 21px; border-top: 8px solid transparent; border-bottom: 8px solid transparent; border-left: 9px solid #f7f7f7; }  #MEIQIA-BTN #MEIQIA-BUBBLE-CLOSE { position: absolute; display: none; top: 12px; right: 12px; width: 10px; height: 10px; background-position: -5px -245px; cursor: pointer; } #MEIQIA-BTN #MEIQIA-BUBBLE:hover #MEIQIA-BUBBLE-CLOSE { display: block; } #MEIQIA-BTN #MEIQIA-BUBBLE-INSIDE { margin: 12px 18px; } #MEIQIA-BTN #MEIQIA-BUBBLE-AVATAR { width: 26px; height: 26px; border-radius: 13px; margin-right: 6px; vertical-align: top; box-shadow: 0 0 8px 0 rgba(0, 0, 0, .15); } #MEIQIA-BTN #MEIQIA-BUBBLE-NAME { display: inline-block; margin-top: 3px; font-size: 16px; color: #000; } #MEIQIA-BTN #MEIQIA-BUBBLE-MSG { height: 40px; margin-top: 5px; font-size: 14px; overflow: hidden; color: #000; } #MEIQIA-BTN #MEIQIA-BUBBLE-MSG img { width: 16px; height: 16px; } </style><style type="text/css" id="MEIQIA-ICON-STYLE">.MEIQIA-ICON { background-size: 64px auto !important; background-repeat: no-repeat !important; background-image: url('https://resource.meiqia.com/dist/images/icon-mq-round.png?v=jr232x2r3') !important; } @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2) { .MEIQIA-ICON { background-image: url('https://resource.meiqia.com/dist/images/icon-mq-round@2x.png?v=jr232x2r3') !important; } } .MEIQIA-ICON-CHAT1 { background-position: 0 0 !important; } .MEIQIA-ICON-CHAT2 { background-position: 0 -32px !important; } .MEIQIA-ICON-CHAT3 { background-position: 0 -64px !important; } .MEIQIA-ICON-CHAT4 { background-position: 0 -96px !important; } .MEIQIA-ICON-CHAT5 { background-position: 0 -128px !important; } .MEIQIA-ICON-CHAT6 { background-position: 0 -160px !important; } .MEIQIA-ICON-CHAT7 { background-position: 0 -224px !important; } .MEIQIA-ICON-CHAT8 { background-position: 0 -256px !important; } .MEIQIA-ICON-CHAT9 { background-position: 0 -288px !important; } .MEIQIA-ICON-CHAT10 { background-position: 0 -320px !important; } .MEIQIA-ICON-CHAT11 { background-position: 0 -352px !important; } .MEIQIA-ICON-CHAT12 { background-position: 0 -384px !important; } .MEIQIA-ICON-TICKET1 { background-position: -32px 0 !important; } .MEIQIA-ICON-TICKET2 { background-position: -32px -32px !important; } .MEIQIA-ICON-TICKET3 { background-position: -32px -64px !important; } .MEIQIA-ICON-TICKET4 { background-position: -32px -96px !important; } .MEIQIA-ICON-TICKET5 { background-position: -32px -128px !important; } .MEIQIA-ICON-TICKET6 { background-position: -32px -160px !important; } .MEIQIA-ICON-TICKET7 { background-position: -32px -224px !important; } .MEIQIA-ICON-TICKET8 { background-position: -32px -256px !important; } .MEIQIA-ICON-TICKET9 { background-position: -32px -288px !important; } .MEIQIA-ICON-TICKET10 { background-position: -32px -320px !important; } .MEIQIA-ICON-TICKET11 { background-position: -32px -352px !important; } .MEIQIA-ICON-TICKET12 { background-position: -32px -384px !important; } .MEIQIA-ICON-CALL { background-position: -32px -448px !important; } </style></head>
 <body>
 <div class="wrap">
 <div class="header">
 <div class="container">
 
-<h1>北京实习生招聘</h1>
+<h1 hidden="">教务助理招聘</h1>
 
 
 <a href="/"><img src="https://sxsimg.xiaoyuanzhao.com/static/new_main/img/logo.png?v=ca7e7ee7a9339caf25d8e12d055eb1e8" data-sa="click" data-sevent="menu_click" data-starget="/" data-desc="base-网站logo" data-sname="151" data-sinfo="{&quot;name&quot;: &quot;首页logo&quot;}" alt="实习僧 - 中国领先的实习招聘平台"></a>
@@ -197,30 +214,24 @@ s.parentNode.insertBefore(hm, s);
 <ul class="nav">
 <li><a href="/" data-sa="click" data-sevent="menu_click" data-starget="/" data-desc="base-首页" data-sname="39" data-sinfo="{&quot;name&quot;: &quot;首页&quot;}">首页</a></li>
 
-<li><a href="https://resume.shixiseng.com/personal-center" data-sa="click" data-starget="my" data-sevent="menu_click" data-sinfo="{&quot;name&quot;: &quot;我的简历&quot;}" data-sname="11" data-desc="base-个人中心">个人中心</a></li>
-<li><a class="xyz" href="/jumpto/aHR0cHM6Ly93d3cueGlhb3l1YW56aGFvLmNvbS8=?nocount=0" target="_blank" data-sa="click" data-starget="/jumpto/aHR0cHM6Ly93d3cueGlhb3l1YW56aGFvLmNvbS8=?nocount=0" data-sevent="menu_click" data-sinfo="{&quot;name&quot;: &quot;校园招&quot;}" data-sname="12" data-desc="base-2019校招">2019校招<i class=""></i></a></li>
-<li><a class="cjg " href="/cheerstation" data-sa="click" data-starget="/cheerstation" data-sevent="menu_click" data-sinfo="{&quot;name&quot;: &quot;藏金阁&quot;}" data-sname="13" data-desc="base-藏经阁">藏经阁</a></li>
-<li><a class="qb" href="/jumpto/aHR0cHM6Ly90di5zaGl4aXNlbmcuY29tLw==?nocount=0" target="_blank" data-sa="click" data-starget="/jumpto/aHR0cHM6Ly90di5zaGl4aXNlbmcuY29tLw==?nocount=0" data-sevent="menu_click" data-sinfo="{&quot;name&quot;: &quot;实习僧TV&quot;}" data-sname="14" data-desc="base-实习僧TV">实习僧TV<i class=""></i></a></li>
-<li><a class="qb1" href="/jumpto/Ly9xaWFuYmVpLnNoaXhpc2VuZy5jb20=?nocount=0" target="_blank" data-sa="click" data-starget="/jumpto/aHR0cDovL3d3dy5xaWFuYmVpLmltL21haW4=?nocount=0" data-sevent="menu_click" data-sinfo="{&quot;name&quot;: &quot;前辈学院&quot;}" data-sname="15" data-desc="base-前辈学院">前辈学院</a></li>
+<li><a class="header_href log_flg nav_login" data-sa="click" data-starget="登录入口" data-sevent="menu_click" data-sinfo="{&quot;name&quot;: &quot;登录入口&quot;}" data-sname="1" data-desc="base-我的简历">我的简历</a></li>
+<li><a href="http://hr.shixiseng.com/user/login" data-sa="click" data-starget="hr.shixiseng.com" data-sevent="menu_click" data-sinfo="{&quot;name&quot;: &quot;发布职位&quot;}" data-sname="2" data-desc="base-发布职位">发布职位</a></li>
+<li><a class="xyz" href="/jumpto/aHR0cDovL3d3dy54aWFveXVhbnpoYW8uY29tLw==?nocount=0" target="_blank" data-sa="click" data-starget="xiaoyuanzhao.com" data-sevent="menu_click" data-sinfo="{&quot;name&quot;: &quot;校园招&quot;}" data-sname="3" data-desc="base-2019校招">2019校招<i class=""></i></a></li>
+<li><a class="cjg " href="/cheerstation" data-sa="click" data-starget="/cheerstation" data-sevent="menu_click" data-sinfo="{&quot;name&quot;: &quot;藏金阁&quot;}" data-sname="4" data-desc="base-藏经阁">藏经阁</a></li>
+<li><a class="qb" href="/jumpto/aHR0cHM6Ly90di5zaGl4aXNlbmcuY29tLw==?nocount=0" target="_blank" data-sa="click" data-starget="kongzhongtalk.com" data-sevent="menu_click" data-sinfo="{&quot;name&quot;: &quot;实习僧TV&quot;}" data-sname="5" data-desc="base-实习僧TV">实习僧TV<i class=""></i></a></li>
+<li><a class="qb1" href="/jumpto/Ly9xaWFuYmVpLnNoaXhpc2VuZy5jb20=?nocount=0" target="_blank" data-sa="click" data-starget="qianbei.im/main" data-sevent="menu_click" data-sinfo="{&quot;name&quot;: &quot;前辈学院&quot;}" data-sname="6" data-desc="base-前辈学院">前辈学院<i class="add_anim1"></i></a></li>
 
 </ul>
 
-<div class="logined">
+<div class="links">
+<a href="https://hr.shixiseng.com" class="tobe" data-sa="click" data-starget="hr.shixiseng.com" data-sevent="menu_click" data-sinfo="{&quot;name&quot;: &quot;企业入口&quot;}" data-sname="16" data-desc="base-企业入口">企业入口</a>
 
-<a href="/app/download" target="_blank" title="APP下载" class="phone" style="background-image: url(https://sxsimg.xiaoyuanzhao.com/static/new_main/img/icon-app.png?v=9ab9f77b966ddb16eadac3da6d41125e)" data-sa="click" data-starget="" data-sevent="menu_click" data-sinfo="{&quot;name&quot;: &quot;app下载&quot;}" data-sname="21" data-desc="base-学生登录-APP下载"></a>
-
-<!--有红点就加red_point-->
-<div class="mine" style="background-image: url(https://sxsimg.xiaoyuanzhao.com/3E/48/3E42350BC339C5B3B790444FFA19A448.jpg)"></div>
-<div class="mine_box">
-<div class="mine_jump">
-
-<a data-sa="click" data-sname="8" data-sevent="menu_click" data-sinfo="{&quot;name&quot;: &quot;个人中心&quot;}" data-desc="base-登录后头像下方个人中心" data-starget="/my" href="https://resume.shixiseng.com/personal-center">个人中心<span class="redstar"></span></a>
-
-
-<a target="_blank" href="/user/accountsetting/mod">账号设置<span class="onlysso"></span></a>
-<a id="logout-btn" data-sa="click" data-sname="38" data-desc="base-登录后头像下方退出登录" data-sinfo="{&quot;name&quot;: &quot;退出登录&quot;}" data-sevent="land_click" data-starget="">退出</a>
+<div class="tobe student" data-sa="click" data-starget="" data-sevent="menu_click" data-sinfo="{&quot;name&quot;: &quot;学生入口&quot;}" data-sname="17" data-desc="base-学生入口">学生入口</div>
+<div class="tobe_jump">
+<a class="nav_login" data-sa="click" data-starget="" data-sevent="menu_click" data-sinfo="{&quot;name&quot;: &quot;登录&quot;}" data-sname="18" data-desc="base-登录">登录</a>
+<a href="/user/register?next=/intern/inn_43ci5nyosovy" target="_blank" data-sa="click" data-starget="" data-sevent="menu_click" data-sinfo="{&quot;name&quot;: &quot;注册&quot;}" data-sname="19" data-desc="base-注册">注册</a>
 </div>
-</div>
+
 </div>
 
 </div>
@@ -230,1193 +241,355 @@ s.parentNode.insertBefore(hm, s);
 </div>
 </div>
 
-<div class="container">
-<div class="search-bar clearfix">
-<div class="btn1">
-<div>
-<span data-val="110100">北京</span>
-<img src="https://sxsimg.xiaoyuanzhao.com/static/new_main/img/search-list2/arrow1.png?v=d03c1c3140ccce1ae23cd9260672628a" alt="">
+<div class="job-box">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="job-header">
+<div class="new_job_name" title="教务助理">
+教务助理
 </div>
-</div>
-<div class="btn2">
-<span data-val="intern"> 搜职位 </span>
-<img src="https://sxsimg.xiaoyuanzhao.com/static/new_main/img/search-list2/arrow1.png?v=d03c1c3140ccce1ae23cd9260672628a" alt="">
-<ul class="btn2-sel" data-type="st">
-<li class="sel1" data-sa="click" data-sinfo="{&quot;search_type&quot;: &quot;&quot;, &quot;name&quot;: &quot;职位搜索&quot;}" data-sevent="search_click" data-starget="" data-sname="95" data-desc="search-职位搜索" data-val="intern">
-<span>搜职位</span>
-<img src="https://sxsimg.xiaoyuanzhao.com/static/new_main/img/search-list2/arrow1.png?v=d03c1c3140ccce1ae23cd9260672628a" alt="">
-</li>
-<li class="sel2" data-sa="click" data-sinfo="{&quot;search_type&quot;: &quot;company&quot;, &quot;name&quot;: &quot;公司搜索&quot;}" data-sevent="search_click" data-starget="" data-sname="96" data-desc="search-公司搜索" data-val="company">
-<span>搜公司</span>
-<img src="https://sxsimg.xiaoyuanzhao.com/static/new_main/img/search-list2/arrow1.png?v=d03c1c3140ccce1ae23cd9260672628a" alt="">
-</li>
-</ul>
-</div>
-<div class="input-box">
-<input type="text" name="keyword" data-sval="" value="数据" placeholder="请输入期望的实习岗位 ">
-</div>
-<div class="search-btn" id="search_btn" data-sa="click" data-sevent="search_click" data-sname="56" data-sea="" data-sinfo="{&quot;source_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;}" onclick="var ee = $('[data-sval]').val();document.cookie = 'search=' + ee;" data-desc="search-搜索职位">搜索</div>
+<div class="job_date "><span class="cutom_font">-- ::</span><span>刷新</span></div>
+<div class="job_msg"><span class="job_money cutom_font">-/天</span><span title="上海" class="job_position">上海</span><span class="job_academic">不限</span><span class="job_week cutom_font">天／周</span><span class="job_time cutom_font">实习个月</span></div>
+
+<div class="job_good_list">
+
+
+<span>课程福利</span>
+
+
 </div>
 
-<div class="similar-search">
-<span>相似搜索：</span>
-<ul class="list clearfix">
+<div class="job-com">
+<a href="/company/detail/com_wn20qo0qq8sp" target="_blank" class="com-con">
+<img data-sa="click" data-sevent="com_click" data-sinfo="{&quot;click_page&quot;: &quot;/intern/inn_43ci5nyosovy&quot;, &quot;com_uuid&quot;: &quot;com_wn20qo0qq8sp&quot;}" data-starget="" data-sname="98" data-desc="job_info-职位详情-公司logo" src="https://sxsimg.xiaoyuanzhao.com/AF/A7/AF220819D4F5648D8268DA26DF7CF6A7.png" alt="(起求职)实习招聘" class="com-logo bgs">
+<div data-sa="click" data-sevent="com_click" data-sinfo="{&quot;click_page&quot;: &quot;/intern/inn_43ci5nyosovy&quot;, &quot;com_uuid&quot;: &quot;com_wn20qo0qq8sp&quot;}" data-starget="" data-sname="98" data-desc="job_info-职位详情-公司logo" class="com-name">17Career(一起求职)</div>
 
-<li>数据挖掘
-</li>
-
-<li>数据
-</li>
-
-<li>金融数据</li>
-
-<li>数据产品</li>
-
-<li>数据分析实习生
-</li>
-
-<li>云计算/大数据
-</li>
-
-</ul>
-</div>
-
-<div class="filter-bar">
-<div class="preview-list clearfix">
-<div class="name">
-<span>更多筛选条件</span>
-<img src="https://sxsimg.xiaoyuanzhao.com/static/new_main/img/search-list2/arrow2.png?v=381b0cdacced17850e6f297a63ace9a4" alt="">
-</div>
-<ul class="list clearfix">
-<li>
-<span>发布时间</span><span class="con">不限</span>
-</li>
-<li>
-<span>实习月份</span><span class="con">不限</span>
-</li>
-<li>
-<span>实习天数</span><span class="con">不限</span>
-</li>
-<li>
-<span>日薪范围</span><span class="con">不限</span>
-</li>
-<li>
-<span>最低学历</span><span class="con">不限</span>
-</li>
-<li>
-<span>转正机会</span><span class="con">不限</span>
-</li>
-<li>
-<span>企业筛选</span><span class="con">不限</span>
-</li>
-</ul>
-</div>
-<ul class="filter-list" style="display: none;">
-<li class="clearfix" data-type="ft">
-<span>发布时间：</span>
-<ul class="list-item clearfix">
-<li data-sa="click" data-sinfo="{&quot;search_type&quot;: &quot;&quot;, &quot;name&quot;: &quot;不限&quot;}" data-sevent="search_click" data-starget="" data-sname="97" data-desc="search-不限" data-val="" class="active">不限</li>
-<li data-sa="click" data-sinfo="{&quot;search_type&quot;: &quot;day&quot;, &quot;name&quot;: &quot;一天内&quot;}" data-sevent="search_click" data-starget="" data-sname="98" data-desc="search-一天内" data-val="day">一天内</li>
-<li data-sa="click" data-sinfo="{&quot;search_type&quot;: &quot;wek&quot;, &quot;name&quot;: &quot;一周内&quot;}" data-sevent="search_click" data-starget="" data-sname="99" data-desc="search-一周内" data-val="wek">一周内</li>
-<li data-sa="click" data-sinfo="{&quot;search_type&quot;: &quot;mon&quot;, &quot;name&quot;: &quot;一月内&quot;}" data-sevent="search_click" data-starget="" data-sname="100" data-desc="search-一月内" data-val="mon">一月内</li>
-</ul>
-</li>
-<li class="clearfix" data-type="m">
-<span>实习月份：</span>
-<ul class="list-item clearfix">
-<li data-sa="click" data-sinfo="{&quot;name&quot;: &quot;实习月数筛选&quot;, &quot;month&quot;: 0}" data-sevent="search_click" data-starget="" data-sname="80" data-desc="search-实习月数不限" data-val="" class="active">不限</li>
-<li data-sa="click" data-sinfo="{&quot;name&quot;: &quot;实习月数筛选&quot;, &quot;month&quot;: 1}" data-sevent="search_click" data-starget="" data-sname="81" data-desc="search-实习月数1月" data-val="1">一月</li>
-<li data-sa="click" data-sinfo="{&quot;name&quot;: &quot;实习月数筛选&quot;, &quot;month&quot;: 2}" data-sevent="search_click" data-starget="" data-sname="82" data-desc="search-实习月数2月" data-val="2">两月</li>
-<li data-sa="click" data-sinfo="{&quot;name&quot;: &quot;实习月数筛选&quot;, &quot;month&quot;: 3}" data-sevent="search_click" data-starget="" data-sname="83" data-desc="search-实习月数3月" data-val="3">三月</li>
-<li data-sa="click" data-sinfo="{&quot;name&quot;: &quot;实习月数筛选&quot;, &quot;month&quot;: 4}" data-sevent="search_click" data-starget="" data-sname="84" data-desc="search-实习月数4月" data-val="4">三月以上</li>
-</ul>
-</li>
-<li class="clearfix" data-type="d">
-<span>实习天数：</span>
-<ul class="list-item clearfix">
-<li data-sa="click" data-sinfo="{&quot;dayperweek&quot;: 0, &quot;name&quot;: &quot;实习天数筛选&quot;}" data-sevent="search_click" data-starget="" data-sname="72" data-desc="search-实习天数不限" data-val="" class="active">不限</li>
-<li data-sa="click" data-sinfo="{&quot;dayperweek&quot;: 1, &quot;name&quot;: &quot;实习天数筛选&quot;}" data-sevent="search_click" data-starget="" data-sname="73" data-desc="search-实习天数1天" data-val="1">一天</li>
-<li data-sa="click" data-sinfo="{&quot;dayperweek&quot;: 2, &quot;name&quot;: &quot;实习天数筛选&quot;}" data-sevent="search_click" data-starget="" data-sname="74" data-desc="search-实习天数2天" data-val="2">两天</li>
-<li data-sa="click" data-sinfo="{&quot;dayperweek&quot;: 3, &quot;name&quot;: &quot;实习天数筛选&quot;}" data-sevent="search_click" data-starget="" data-sname="75" data-desc="search-实习天数3天" data-val="3">三天</li>
-<li data-sa="click" data-sinfo="{&quot;dayperweek&quot;: 4, &quot;name&quot;: &quot;实习天数筛选&quot;}" data-sevent="search_click" data-starget="" data-sname="76" data-desc="search-实习天数4天" data-val="4">四天</li>
-<li data-sa="click" data-sinfo="{&quot;dayperweek&quot;: 5, &quot;name&quot;: &quot;实习天数筛选&quot;}" data-sevent="search_click" data-starget="" data-sname="77" data-desc="search-实习天数5天" data-val="5">五天</li>
-<li data-sa="click" data-sinfo="{&quot;dayperweek&quot;: 6, &quot;name&quot;: &quot;实习天数筛选&quot;}" data-sevent="search_click" data-starget="" data-sname="78" data-desc="search-实习天数6天及以上" data-val="more">六天及以上</li>
-</ul>
-</li>
-<li class="clearfix" data-type="s">
-<span>日薪范围：</span>
-<ul class="list-item clearfix">
-<li data-sa="click" data-sinfo="{&quot;maxsalary&quot;: 0, &quot;minsalary&quot;: 0, &quot;name&quot;: &quot;日薪筛选&quot;}" data-sevent="search_click" data-starget="" data-sname="65" data-desc="search-日薪范围不限" data-val="" class="active">不限</li>
-<li data-sa="click" data-sinfo="{&quot;maxsalary&quot;: 100, &quot;minsalary&quot;: 0, &quot;name&quot;: &quot;日薪筛选&quot;}" data-sevent="search_click" data-starget="" data-sname="66" data-desc="search-日薪范围0,100" data-val="0,100">100以下</li>
-<li data-sa="click" data-sinfo="{&quot;maxsalary&quot;: 150, &quot;minsalary&quot;: 100, &quot;name&quot;: &quot;日薪筛选&quot;}" data-sevent="search_click" data-starget="" data-sname="67" data-desc="search-日薪范围100,150" data-val="100,150">100-150</li>
-<li data-sa="click" data-sinfo="{&quot;maxsalary&quot;: 200, &quot;minsalary&quot;: 150, &quot;name&quot;: &quot;日薪筛选&quot;}" data-sevent="search_click" data-starget="" data-sname="68" data-desc="search-日薪范围150,200" data-val="150,200">150-200</li>
-<li data-sa="click" data-sinfo="{&quot;maxsalary&quot;: 300, &quot;minsalary&quot;: 200, &quot;name&quot;: &quot;日薪筛选&quot;}" data-sevent="search_click" data-starget="" data-sname="69" data-desc="search-日薪范围200,300" data-val="200,300">200-300</li>
-<li data-sa="click" data-sinfo="{&quot;maxsalary&quot;: 0, &quot;minsalary&quot;: 300, &quot;name&quot;: &quot;日薪筛选&quot;}" data-sevent="search_click" data-starget="" data-sname="70" data-desc="search-日薪范围300,0" data-val="300,0">300以上</li>
-</ul>
-</li>
-<li class="clearfix" data-type="x">
-<span>最低学历：</span>
-<ul class="list-item clearfix">
-<li data-sa="click" data-sinfo="{&quot;name&quot;: &quot;学历筛选&quot;, &quot;degree&quot;: &quot;&quot;}" data-sevent="search_click" data-starget="" data-sname="86" data-desc="search-最低学历不限" data-val="" class="active">不限</li>
-<li data-sa="click" data-sinfo="{&quot;name&quot;: &quot;学历筛选&quot;, &quot;degree&quot;: &quot;大专&quot;}" data-sevent="search_click" data-starget="" data-sname="87" data-desc="search-大专学历" data-val="dazhuan">大专</li>
-<li data-sa="click" data-sinfo="{&quot;name&quot;: &quot;学历筛选&quot;, &quot;degree&quot;: &quot;本科&quot;}" data-sevent="search_click" data-starget="" data-sname="88" data-desc="search-本科学历" data-val="benke">本科</li>
-<li data-sa="click" data-sinfo="{&quot;name&quot;: &quot;学历筛选&quot;, &quot;degree&quot;: &quot;硕士&quot;}" data-sevent="search_click" data-starget="" data-sname="89" data-desc="search-硕士学历" data-val="shuoshi">硕士</li>
-<li data-sa="click" data-sinfo="{&quot;name&quot;: &quot;学历筛选&quot;, &quot;degree&quot;: &quot;博士&quot;}" data-sevent="search_click" data-starget="" data-sname="90" data-desc="search-博士学历" data-val="boshi">博士</li>
-</ul>
-</li>
-<li class="clearfix" data-type="ch">
-<span>转正机会：</span>
-<ul class="list-item clearfix">
-<li data-sa="click" data-sinfo="{&quot;chance&quot;: &quot;&quot;, &quot;name&quot;: &quot;转正机会筛选&quot;}" data-sevent="search_click" data-starget="" data-sname="91" data-desc="search-转正机会不限" data-val="" class="active">不限</li>
-<li data-sa="click" data-sinfo="{&quot;chance&quot;: &quot;转正&quot;, &quot;name&quot;: &quot;转正机会筛选&quot;}" data-sevent="search_click" data-starget="" data-sname="92" data-desc="search-提供转正" data-val="entry">提供转正</li>
-<li data-sa="click" data-sinfo="{&quot;chance&quot;: &quot;不转正&quot;, &quot;name&quot;: &quot;转正机会筛选&quot;}" data-sevent="search_click" data-starget="" data-sname="93" data-desc="search-不提供转正" data-val="noentry">不提供转正</li>
-<li data-sa="click" data-sinfo="{&quot;chance&quot;: &quot;面议&quot;, &quot;name&quot;: &quot;转正机会筛选&quot;}" data-sevent="search_click" data-starget="" data-sname="94" data-desc="search-面议" data-val="notsure">面议</li>
-</ul>
-</li>
-<li class="clearfix" data-type="h">
-<span>企业筛选：</span>
-<ul class="list-item clearfix">
-<li class="active" data-val="">不限</li>
-<li data-val="china500">知名企业</li>
-<li data-val="IT300">2018互联网300强</li>
-</ul>
-</li>
-</ul>
-<div class="switch-box">
-<div class="switch-btn">
-<span>立即展开</span>
-<img src="https://sxsimg.xiaoyuanzhao.com/static/new_main/img/search-list2/arrow2.png?v=381b0cdacced17850e6f297a63ace9a4" alt="">
-</div>
-</div>
-</div>
-</div>
-<div class="position-box">
-
-<div class="filter-box clearfix">
-<div class="btn btn1 fl " data-order="rp">综合排序</div>
-<div class="btn btn2 fl " data-order="zj">时间排序</div>
-<div class="btn btn2 fl " data-order="zh">相关度排序</div>
-<div class="line  pass "></div>
-</div>
-
-<div class="position">
-<div class="position-center clearfix">
-<div class="position-list-box">
-
-<ul class="position-list">
-
-<li class="position-item clearfix font">
-<div class="position-info fl">
-<div class="info1 clearfix">
-<a class="position-name fl" href="/intern/inn_ckb0bj41ti5t" target="_blank">数据分析实习</a>
-<span class="position-salary fl">-/天</span>
-</div>
-<div class="info2 clearfix">
-<span>北京</span>
-<span>天/周</span>
-<span>个月</span>
-</div>
-</div>
-<a class="company-logo fr" href="/com/com_lf84apfd7dlm" target="_blank">
-<img src="https://sxsimg.xiaoyuanzhao.com/24/AA/24DE4FA5F229B122757F8DB7631DF3AA.png">
+<div class="com-num" data-sa="click" data-sevent="com_click" data-sinfo="{&quot;click_page&quot;: &quot;/intern/inn_43ci5nyosovy&quot;, &quot;com_uuid&quot;: &quot;com_wn20qo0qq8sp&quot;}" data-starget="" data-sname="98" data-desc="job_info-职位详情-公司logo">50-150人</div>
+<div class="com-class" data-sa="click" data-sevent="com_click" data-sinfo="{&quot;click_page&quot;: &quot;/intern/inn_43ci5nyosovy&quot;, &quot;com_uuid&quot;: &quot;com_wn20qo0qq8sp&quot;}" data-starget="" data-sname="98" data-desc="job_info-职位详情-公司logo">教育培训</div>
+<div class="com-right" data-sa="click" data-sevent="com_click" data-sinfo="{&quot;click_page&quot;: &quot;/intern/inn_43ci5nyosovy&quot;, &quot;com_uuid&quot;: &quot;com_wn20qo0qq8sp&quot;}" data-starget="" data-sname="98" data-desc="job_info-职位详情-公司logo" style="background-image: url(https://sxsimg.xiaoyuanzhao.com/static/new_main/img/new-job-right1.png?v=82e6b7c8d05fcb62cb20855b16a4f066)"></div>
 </a>
-<div class="company-info fr">
-<a class="company-name" href="/com/com_lf84apfd7dlm" target="_blank">北京大数据研究院</a>
-<div class="company-more-info clearfix">
-<span>计算机/互联网</span><span>/50-150人</span>
 </div>
-</div>
-</li>
-<!--<li class="font">-->
-<!--<div class="info1">-->
-<!--<div class="name-box clearfix"><a class="name" href="/intern/inn_ckb0bj41ti5t" target="_blank" data-info="inn_ckb0bj41ti5t" data-sa="click" data-sevent="jb_click" data-starget="/intern/inn_ckb0bj41ti5t" data-sinfo="{&quot;intern_uuid&quot;: &quot;inn_ckb0bj41ti5t&quot;, &quot;source_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;search_port&quot;: &quot;搜索&quot;}" data-sname="95" data-desc="search-职位名称">数据分析实习&#xf31d</a>-->
-<!---->
-<!---->
-<!--<span class="release-time">27小时前</span></div>-->
-<!--<div class="company-box"><a class="company" href="/com/com_lf84apfd7dlm" target="_blank" data-sa="click" data-sevent="com_click" data-starget="/com/com_lf84apfd7dlm" data-sinfo="{&quot;click_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;com_uuid&quot;: &quot;com_lf84apfd7dlm&quot;}" data-sname="96" data-desc="search-公司名称">北京大数据研究院</a>-->
-<!---->
-<!--<span>-</span>-->
-<!--<span class="type">Python</span>-->
-<!---->
-<!---->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="info2">-->
-<!--<div class="area">北京</div>-->
-<!--<div class="more">-->
-<!--<span>&#xe6bd&#xeb93&#xeb93-&#xe6bd&#xf22c&#xeb93/天</span>|<span>&#xee0b天/周</span>|<span>&#xe1b2个月</span>-->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="logo">-->
-<!--<a href="/com/com_lf84apfd7dlm" target="_blank" >-->
-<!--<img src="https://sxsimg.xiaoyuanzhao.com/24/AA/24DE4FA5F229B122757F8DB7631DF3AA.png" data-sa="click" data-sevent="com_click" data-starget="/com/com_lf84apfd7dlm" data-sinfo="{&quot;click_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;com_uuid&quot;: &quot;com_lf84apfd7dlm&quot;}" data-sname="97" data-desc="search-公司logo" alt="北京大数据研究院实习招聘"/>-->
-<!--</a>-->
-<!--</div>-->
-<!--</li>-->
+<div class="job_more"><span class="share bgs" style="background-image: url(https://sxsimg.xiaoyuanzhao.com/static/new_main/img/job_icon_share.png?v=e3bdd1f31bb159cd431e7848e011a6e4)">
+<div class="share-wrap job_det_share">
+<span class="share-shadow">
+<span class="bdsharebuttonbox bdshare-button-style1-24" data-bd-bind="1553868688117">
+<a class="bds_weixin" data-cmd="weixin" data-sa="click" data-starget="" data-sinfo="{&quot;name&quot;: &quot;分享到微信&quot;}" data-sname="100" data-desc="job_info-分享到微信" data-sevent="share_click" title="分享到微信"></a>
+<a class="bds_sqq" data-cmd="sqq" data-sa="click" data-starget="" data-sinfo="{&quot;name&quot;: &quot;分享到QQ&quot;}" data-sname="101" data-desc="job_info-分享到QQ" data-sevent="share_click" title="分享到QQ"></a>
+<a class="bds_tsina" data-cmd="tsina" data-sa="click" data-starget="" data-sinfo="{&quot;name&quot;: &quot;分享到新浪微博&quot;}" data-sname="99" data-desc="job_info-分享到新浪微博" data-sevent="share_click" title="分享到新浪微博"></a>
 
-<li class="position-item clearfix font">
-<div class="position-info fl">
-<div class="info1 clearfix">
-<a class="position-name fl" href="/intern/inn_1izsnccpe19f" target="_blank">业务数据支持岗-实习</a>
-<span class="position-salary fl">-/天</span>
+
+
+
+</span>
+<script>
+window._bd_share_config={
+"common":{
+"bdSnsKey":{"tsina":"976310381"},
+"bdText":" 17Career(一起求职)开始招实习生了，快来投简历吧 by 最靠谱的实习招聘平台 @实习僧",
+"bdMini":"1",
+"bdMiniList":false,
+"bdUrl":"",
+"bdPic":"https://sxsimg.xiaoyuanzhao.com/AF/A7/AF220819D4F5648D8268DA26DF7CF6A7.png",
+"bdStyle":"1",
+"bdSize":"24"},
+"share":{},
+// "image":{
+// "viewList":["tsina","weixin","qzone","tqq","renren","mail","print"],
+// "viewText":"分享到：",
+// "viewSize":"24"},
+// "selectShare":{
+// "bdContainerClass":null,
+// "bdSelectMiniList":["tsina","weixin","qzone","tqq","renren","mail","print"]
+// }
+};
+with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+</script>
+</span>
 </div>
-<div class="info2 clearfix">
-<span>北京</span>
-<span>天/周</span>
-<span>个月</span>
+</span><span class="tip bgs jb" style="background-image: url(https://sxsimg.xiaoyuanzhao.com/static/new_main/img/job_icon_tip.png?v=b4b6cd706a8c3dcbca30c1dc2204b5f7)"></span></div>
+</div>
+
+<div class="job-content">
+<div class="content_left">
+<input type="hidden" class="taruuid" value="inn_43ci5nyosovy">
+
+
+
+<input type="hidden" class="toemail" value="">
+<input id="sdtoken_complain" name="sdtoken_complain" value="b3BP3L6QstqPw2z0CwAv2s1PXKu62kEZ" type="hidden">
+<input id="sdtoken_cf" value="16AxxbDb3OFkn5a3Bkh3v9TFwYO708n0" type="hidden">
+<div class="con-job">
+<div class="job_til">职位描述：</div>
+<div class="job_part">
+
+<div class="job_detail" style="margin-top: 0;">
+
+<strong>该职位接受暑期实习。</strong><br><br><p>工作内容：</p><p>1. 管理合作企业的内推资源（每天有更新）。</p><p>2. 上架内推岗位、给企业HR发送推荐邮件，追踪内推进展。</p><p>3. <span>管理内推岗位，在</span>APP<span>上回复候选人</span>/询问候选人/推荐候选人。</p><p>4. <span>每天统一整理要推荐候选人的清单，发送给企业</span>HR。</p>
+</div>
+
+
+
 </div>
 </div>
-<a class="company-logo fr" href="/com/com_pcft33wpsz6x" target="_blank">
-<img src="https://sxsimg.xiaoyuanzhao.com/AA/27/AA99A3B0B5B22B9A03E78850E0D8A227.png">
+<div class="con-job job_city">
+<div class="job_til">工作地点：</div>
+<span class="com_position">徐汇区吴中路8号锦辉大厦715（3、4、9号线宜山路地铁站步行10-15分钟）</span><span class="search_map">查看地图</span>
+</div>
+<div class="con-job">
+<div class="job_til">投递要求：</div>
+<div>简历要求：中文</div>
+<div class="cutom_font">截止日期：--</div>
+</div>
+<div class="con-job">
+<div class="job_til">公司简介：</div>
+<div class="com_intro">
+<a class="logo" href="/company/detail/com_wn20qo0qq8sp" target="_blank"><img src="https://sxsimg.xiaoyuanzhao.com/AF/A7/AF220819D4F5648D8268DA26DF7CF6A7.png"></a>
+<a class="com-name" href="/company/detail/com_wn20qo0qq8sp" target="_blank">17Career(一起求职)</a>
+<div class="com-detail">
+<span>上海</span><span> | 50-150人</span><span> | 教育培训</span>
+</div>
+</div>
+<div class="com-desc">大学生职业发展教育的准“独角兽”</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="con-job resume_content">
+
+
+<div class="resume_apply com_res" data-sa="click" data-sevent="intern_deliver" data-starget="" data-sname="106" data-sinfo="{&quot;intern_uuid&quot;: &quot;inn_43ci5nyosovy&quot;, &quot;source_page&quot;: &quot;/intern/inn_43ci5nyosovy&quot;}" data-desc="job_info-投个简历">投个简历</div>
+
+
+</div>
+
+<div class="con-same">
+<div class="same-til">相似职位</div>
+<div class="same-list">
+<div class="list-con">
+
+
+<div class="con-item" data-v="inn_mas19xnooqjo">
+<img src="https://sxsimg.xiaoyuanzhao.com/30/02/305778FD50B0383551EC6742951F9A02.png" alt="" class="item-img">
+<div data-href="/intern/inn_mas19xnooqjo" class="item-name" data-sa="click" data-sevent="jb_click" data-sinfo="{&quot;intern_uuid&quot;: &quot;inn_mas19xnooqjo&quot;, &quot;source_page&quot;: &quot;/intern/inn_43ci5nyosovy&quot;, &quot;search_port&quot;: &quot;相似职位&quot;}" data-starget="" data-sname="107" data-desc="job_info-相似职位名称">教务助理实习生</div>
+<!--<a href="/intern/inn_mas19xnooqjo" class="item-name">教务助理实习生</a>-->
+<div class="item-tm"><span>3天/周</span><span>100-150/天</span></div>
+<div class="item-msg"><span class="msg-company">Easyfinance</span><span class="msg-position">上海</span></div>
+</div>
+
+
+
+<div class="con-item" data-v="inn_uusoacm6koyy">
+<img src="https://sxsimg.xiaoyuanzhao.com/4F/94/4F47BF8199CE7AC77AB23969DD697694.jpg" alt="" class="item-img">
+<div data-href="/intern/inn_uusoacm6koyy" class="item-name" data-sa="click" data-sevent="jb_click" data-sinfo="{&quot;intern_uuid&quot;: &quot;inn_uusoacm6koyy&quot;, &quot;source_page&quot;: &quot;/intern/inn_43ci5nyosovy&quot;, &quot;search_port&quot;: &quot;相似职位&quot;}" data-starget="" data-sname="107" data-desc="job_info-相似职位名称">项目运营会务助理</div>
+<!--<a href="/intern/inn_uusoacm6koyy" class="item-name">项目运营会务助理</a>-->
+<div class="item-tm"><span>5天/周</span><span>150-200/天</span></div>
+<div class="item-msg"><span class="msg-company">IYC</span><span class="msg-position">上海</span></div>
+</div>
+
+
+
+<div class="con-item" data-v="inn_43ci5nyosovy">
+<img src="https://sxsimg.xiaoyuanzhao.com/AF/A7/AF220819D4F5648D8268DA26DF7CF6A7.png" alt="" class="item-img">
+<div data-href="/intern/inn_43ci5nyosovy" class="item-name" data-sa="click" data-sevent="jb_click" data-sinfo="{&quot;intern_uuid&quot;: &quot;inn_43ci5nyosovy&quot;, &quot;source_page&quot;: &quot;/intern/inn_43ci5nyosovy&quot;, &quot;search_port&quot;: &quot;相似职位&quot;}" data-starget="" data-sname="107" data-desc="job_info-相似职位名称">教务助理</div>
+<!--<a href="/intern/inn_43ci5nyosovy" class="item-name">教务助理</a>-->
+<div class="item-tm"><span>3天/周</span><span>120-149/天</span></div>
+<div class="item-msg"><span class="msg-company">一起求职</span><span class="msg-position">上海</span></div>
+</div>
+
+
+
+<div class="con-item" data-v="inn_03wu5zsxcj2m">
+<img src="https://sxsimg.xiaoyuanzhao.com/AF/A7/AF220819D4F5648D8268DA26DF7CF6A7.png" alt="" class="item-img">
+<div data-href="/intern/inn_03wu5zsxcj2m" class="item-name" data-sa="click" data-sevent="jb_click" data-sinfo="{&quot;intern_uuid&quot;: &quot;inn_03wu5zsxcj2m&quot;, &quot;source_page&quot;: &quot;/intern/inn_43ci5nyosovy&quot;, &quot;search_port&quot;: &quot;相似职位&quot;}" data-starget="" data-sname="107" data-desc="job_info-相似职位名称">培训助理</div>
+<!--<a href="/intern/inn_03wu5zsxcj2m" class="item-name">培训助理</a>-->
+<div class="item-tm"><span>4天/周</span><span>100-150/天</span></div>
+<div class="item-msg"><span class="msg-company">一起求职</span><span class="msg-position">上海</span></div>
+</div>
+
+
+
+<div class="con-item" data-v="inn_r7trxacjwopw">
+<img src="https://sxsimg.xiaoyuanzhao.com/67/F2/67B54557F030C6716E054992669C29F2.png" alt="" class="item-img">
+<div data-href="/intern/inn_r7trxacjwopw" class="item-name" data-sa="click" data-sevent="jb_click" data-sinfo="{&quot;intern_uuid&quot;: &quot;inn_r7trxacjwopw&quot;, &quot;source_page&quot;: &quot;/intern/inn_43ci5nyosovy&quot;, &quot;search_port&quot;: &quot;相似职位&quot;}" data-starget="" data-sname="107" data-desc="job_info-相似职位名称">教务实习生</div>
+<!--<a href="/intern/inn_r7trxacjwopw" class="item-name">教务实习生</a>-->
+<div class="item-tm"><span>3天/周</span><span>150-200/天</span></div>
+<div class="item-msg"><span class="msg-company">海风教育</span><span class="msg-position">上海</span></div>
+</div>
+
+
+</div>
+</div>
+<div class="same-btn same-btn-show">
+<img src="https://sxsimg.xiaoyuanzhao.com/static/new_main/img/new-job-right.png?v=e5a39aa82646cd7d1cd892edd81cb699" alt="">
+</div>
+</div>
+
+
+<div class="same-company"><span class="sc-til">推荐公司：</span><a href="https://www.shixiseng.com/com/com_ga3yy2bencrl" target="_blank" class="sc-com" data-sa="click" data-sevent="ad_click" data-starget="" data-sname="240" data-desc="job_info-职位详情文字链" data-sinfo="{&quot;ad_uuid&quot;: &quot;add_bxuhrd7bv0bs&quot;, &quot;name&quot;: &quot;职位详情文字链广告&quot;}">优衣库</a><a href="https://www.shixiseng.com/com/com_ci7wtst0g9hu" target="_blank" class="sc-com" data-sa="click" data-sevent="ad_click" data-starget="" data-sname="240" data-desc="job_info-职位详情文字链" data-sinfo="{&quot;ad_uuid&quot;: &quot;add_hxl5hiedtbsn&quot;, &quot;name&quot;: &quot;职位详情文字链广告&quot;}">爱德威广告</a><a href="https://www.shixiseng.com/com/com_lufwssdaieju" target="_blank" class="sc-com" data-sa="click" data-sevent="ad_click" data-starget="" data-sname="240" data-desc="job_info-职位详情文字链" data-sinfo="{&quot;ad_uuid&quot;: &quot;add_iuv9ltw3o547&quot;, &quot;name&quot;: &quot;职位详情文字链广告&quot;}">BOE</a><a href="https://www.shixiseng.com/com/com_gd2wv5w0n30x" target="_blank" class="sc-com" data-sa="click" data-sevent="ad_click" data-starget="" data-sname="240" data-desc="job_info-职位详情文字链" data-sinfo="{&quot;ad_uuid&quot;: &quot;add_t3dhgyxrevzk&quot;, &quot;name&quot;: &quot;职位详情文字链广告&quot;}">华润三九</a><a href="https://www.shixiseng.com/com/com_jzpoqsh8stz1" target="_blank" class="sc-com" data-sa="click" data-sevent="ad_click" data-starget="" data-sname="240" data-desc="job_info-职位详情文字链" data-sinfo="{&quot;ad_uuid&quot;: &quot;add_bs7eptad83zf&quot;, &quot;name&quot;: &quot;职位详情文字链广告&quot;}">第一创业证券</a><a href="https://www.shixiseng.com/com/com_sg4vpavabqo1" target="_blank" class="sc-com" data-sa="click" data-sevent="ad_click" data-starget="" data-sname="240" data-desc="job_info-职位详情文字链" data-sinfo="{&quot;ad_uuid&quot;: &quot;add_qqty0doo4jet&quot;, &quot;name&quot;: &quot;职位详情文字链广告&quot;}">网易游戏</a><a href="https://www.shixiseng.com/com/com_85mbofqdhk7d" target="_blank" class="sc-com" data-sa="click" data-sevent="ad_click" data-starget="" data-sname="240" data-desc="job_info-职位详情文字链" data-sinfo="{&quot;ad_uuid&quot;: &quot;add_8yxyz9ikrtez&quot;, &quot;name&quot;: &quot;职位详情文字链广告&quot;}">搜狗</a><a href="https://www.shixiseng.com/com/com_mvejquglt6kb" target="_blank" class="sc-com" data-sa="click" data-sevent="ad_click" data-starget="" data-sname="240" data-desc="job_info-职位详情文字链" data-sinfo="{&quot;ad_uuid&quot;: &quot;add_f0zrftyfojsb&quot;, &quot;name&quot;: &quot;职位详情文字链广告&quot;}">Duxes</a><a href="https://www.shixiseng.com/com/com_ssdgmwuf5i3h" target="_blank" class="sc-com" data-sa="click" data-sevent="ad_click" data-starget="" data-sname="240" data-desc="job_info-职位详情文字链" data-sinfo="{&quot;ad_uuid&quot;: &quot;add_8adhwbqa3fgz&quot;, &quot;name&quot;: &quot;职位详情文字链广告&quot;}">达能</a><a href="https://www.shixiseng.com/com/com_d4shvzbqqrgg" target="_blank" class="sc-com" data-sa="click" data-sevent="ad_click" data-starget="" data-sname="240" data-desc="job_info-职位详情文字链" data-sinfo="{&quot;ad_uuid&quot;: &quot;add_nutd4yuh3ilm&quot;, &quot;name&quot;: &quot;职位详情文字链广告&quot;}">WAI Global</a><a href="https://www.shixiseng.com/com/com_i0hajvcuwrur" target="_blank" class="sc-com" data-sa="click" data-sevent="ad_click" data-starget="" data-sname="240" data-desc="job_info-职位详情文字链" data-sinfo="{&quot;ad_uuid&quot;: &quot;add_igwtdyblbiv1&quot;, &quot;name&quot;: &quot;职位详情文字链广告&quot;}">网易</a><a href="https://www.shixiseng.com/com/com_ug9cpq4zkjnu" target="_blank" class="sc-com" data-sa="click" data-sevent="ad_click" data-starget="" data-sname="240" data-desc="job_info-职位详情文字链" data-sinfo="{&quot;ad_uuid&quot;: &quot;add_k6bdhpl436dq&quot;, &quot;name&quot;: &quot;职位详情文字链广告&quot;}">新华网</a><a href="https://www.shixiseng.com/com/com_mrtl0wxvqotw" target="_blank" class="sc-com" data-sa="click" data-sevent="ad_click" data-starget="" data-sname="240" data-desc="job_info-职位详情文字链" data-sinfo="{&quot;ad_uuid&quot;: &quot;add_zxxn0ivcmdlw&quot;, &quot;name&quot;: &quot;职位详情文字链广告&quot;}">圣戈班</a><a href="https://www.shixiseng.com/com/com_eczg9ala7qzy" target="_blank" class="sc-com" data-sa="click" data-sevent="ad_click" data-starget="" data-sname="240" data-desc="job_info-职位详情文字链" data-sinfo="{&quot;ad_uuid&quot;: &quot;add_ttlwkvx72qqj&quot;, &quot;name&quot;: &quot;职位详情文字链广告&quot;}">康宝莱</a><a href="https://www.shixiseng.com/com/com_fx1xovkbixyw" target="_blank" class="sc-com" data-sa="click" data-sevent="ad_click" data-starget="" data-sname="240" data-desc="job_info-职位详情文字链" data-sinfo="{&quot;ad_uuid&quot;: &quot;add_ud2vykcefrjw&quot;, &quot;name&quot;: &quot;职位详情文字链广告&quot;}">YSL</a></div>
+
+</div>
+<div class="content_right">
+
+
+<div class="resume_apply com_res" data-sa="click" data-sevent="intern_deliver" data-starget="" data-sname="108" data-desc="job_info-职位详情右侧投递" data-sinfo="{&quot;name&quot;: &quot;职位详情右侧投递按钮&quot;}">投个简历</div>
+
+
+
+<div class="job_collect sc "><span class="job_star"></span><span class="job_star_status" data-sa="click" data-sevent="intern_sub" data-starget="" data-sinfo="{&quot;intern_uuid&quot;: &quot;inn_43ci5nyosovy&quot;}" data-sname="110" data-desc="job_info-职位详情-收藏">收藏</span></div>
+
+<div class="block"></div>
+
+<div class="job-about">
+<div class="about-til">相关课程推荐</div>
+
+
+<div class="about-it" data-v="cou_8abfposmr5is">
+<div class="it-img" style="background-image: url(//qbxueyuan.xiaoyuanzhao.com/A1/5F/A1BD9F95F8ACC7A5962D47640EE3115F.png)">
+<img src="https://sxsimg.xiaoyuanzhao.com/static/new_main/img/new-job-listen.png?v=3b943001c3b63414dd06a1b62e988d19" alt="">
+<span>45</span>
+</div>
+<div data-href=" https://qianbei.shixiseng.com/course/detail/cou_8abfposmr5is " class="it-name" data-sa="click" data-sevent="jb_click" data-sinfo="" data-starget="" data-sname="111" data-desc="job_info-相关课程名称">快消&amp;互联网 HR 1v1指导</div>
+
+<div class="it-msg"><span>Julie 老师</span><span class="msg-block"></span><span class="msg-com">互联网+快消 HR</span></div>
+</div>
+
+
+
+<div class="about-it" data-v="cou_khudoqfxavid">
+<div class="it-img" style="background-image: url(//qbxueyuan.xiaoyuanzhao.com/FB/47/FBFA647C545EF2181D5A067CF3B94C47.png)">
+<img src="https://sxsimg.xiaoyuanzhao.com/static/new_main/img/new-job-listen.png?v=3b943001c3b63414dd06a1b62e988d19" alt="">
+<span>322</span>
+</div>
+<div data-href=" https://qianbei.shixiseng.com/course/detail/cou_khudoqfxavid " class="it-name" data-sa="click" data-sevent="jb_click" data-sinfo="" data-starget="" data-sname="111" data-desc="job_info-相关课程名称">HR认知｜HR岗位全息解读</div>
+
+<div class="it-msg"><span>Teresa 老师</span><span class="msg-block"></span><span class="msg-com">十年的人力资源从业经历</span></div>
+</div>
+
+
+<input type="hidden" class="invite-special">
+</div>
+
+<div class="block"></div>
+</div>
+</div>
+<div class="load_res_de"></div>
+<div class="jb-box">
+<span class="jb_close">x</span>
+<p class="jb_title">
+举报
+</p>
+<div class="inf">
+<p>请写下举报的理由</p>
+<textarea name="" class="inf_msg"></textarea>
+<button class="inf_pre">提交</button>
+</div>
+</div>
+<div class="resume-guide clearfix">
+<img class="close-layer-btn" src="https://sxsimg.xiaoyuanzhao.com/static/new_main/img/layer-icon-guide-close@2x.png?v=ec2b94771e4b8212146c283e8118ed8d" alt="">
+<div class="fl layer-intro">
+<h2>获得实习经历</h2>
+<p class="tip">为校招加码</p>
+<p class="border-bottom job-num">
+<span class="num">929941</span>
+<span class="label">职位机会</span>
+</p>
+<p class="border-bottom tip">等你来投</p>
+</div>
+<div class="fl resume-operation">
+<div class="model">
+<a href="/resume/guide/create?next=/intern/inn_43ci5nyosovy">
+<div class="img-wrap">
+<img src="https://sxsimg.xiaoyuanzhao.com/static/new_main/img/icon-guide-1@2x.png?v=5060fb2403db8ffe25a6a0d891fb071f" alt="">
+</div>
+<p>3分钟 完成个人简历</p>
 </a>
-<div class="company-info fr">
-<a class="company-name" href="/com/com_pcft33wpsz6x" target="_blank">京东</a>
-<div class="company-more-info clearfix">
-<span>计算机/互联网</span><span>/2000人以上</span>
 </div>
+<div class="model webuploader-container" id="attrUpload"><div class="webuploader-pick">
+<div class="img-wrap">
+<img class="default-img" src="https://sxsimg.xiaoyuanzhao.com/static/new_main/img/icon-guide-2@2x.png?v=bced434a038437d51ffdfaba58a2fd58" alt="">
+<img class="loading-svg hide" src="https://sxsimg.xiaoyuanzhao.com/static/new_main/img/loading.svg?v=5bfa8aab4e0b0cff2d26d2e1bdeb9593" alt="">
 </div>
-</li>
-<!--<li class="font">-->
-<!--<div class="info1">-->
-<!--<div class="name-box clearfix"><a class="name" href="/intern/inn_1izsnccpe19f" target="_blank" data-info="inn_1izsnccpe19f" data-sa="click" data-sevent="jb_click" data-starget="/intern/inn_1izsnccpe19f" data-sinfo="{&quot;intern_uuid&quot;: &quot;inn_1izsnccpe19f&quot;, &quot;source_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;search_port&quot;: &quot;搜索&quot;}" data-sname="95" data-desc="search-职位名称">业务数据支持岗-实习&#xf31d</a>-->
-<!---->
-<!---->
-<!--<span class="release-time">4小时前</span></div>-->
-<!--<div class="company-box"><a class="company" href="/com/com_pcft33wpsz6x" target="_blank" data-sa="click" data-sevent="com_click" data-starget="/com/com_pcft33wpsz6x" data-sinfo="{&quot;click_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;com_uuid&quot;: &quot;com_pcft33wpsz6x&quot;}" data-sname="96" data-desc="search-公司名称">京东</a>-->
-<!---->
-<!--<span>-</span>-->
-<!--<span class="type">分析/调研</span>-->
-<!---->
-<!---->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="info2">-->
-<!--<div class="area">北京</div>-->
-<!--<div class="more">-->
-<!--<span>&#xe8ec&#xeb93&#xeb93-&#xe8ec&#xf22c&#xeb93/天</span>|<span>&#xf22c天/周</span>|<span>&#xee0b个月</span>-->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="logo">-->
-<!--<a href="/com/com_pcft33wpsz6x" target="_blank" >-->
-<!--<img src="https://sxsimg.xiaoyuanzhao.com/AA/27/AA99A3B0B5B22B9A03E78850E0D8A227.png" data-sa="click" data-sevent="com_click" data-starget="/com/com_pcft33wpsz6x" data-sinfo="{&quot;click_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;com_uuid&quot;: &quot;com_pcft33wpsz6x&quot;}" data-sname="97" data-desc="search-公司logo" alt="京东实习招聘"/>-->
-<!--</a>-->
-<!--</div>-->
-<!--</li>-->
+<p>已有简历 点击上传</p>
+</div><div id="rt_rt_1d74sl2m9d5t13r819dh1gilg461" style="position: absolute; top: 0px; left: 0px; width: 100px; height: 100px; overflow: hidden; bottom: auto; right: auto;"><input type="file" name="file" class="webuploader-element-invisible" multiple="multiple" accept="*"><label style="opacity: 0; width: 100%; height: 100%; display: block; cursor: pointer; background: rgb(255, 255, 255);"></label></div></div>
 
-<li class="position-item clearfix font">
-<div class="position-info fl">
-<div class="info1 clearfix">
-<a class="position-name fl" href="/intern/inn_qh6sdtrxqqwt" target="_blank">实时算（校）</a>
-<span class="position-salary fl">-/天</span>
-</div>
-<div class="info2 clearfix">
-<span>北京</span>
-<span>天/周</span>
-<span>个月</span>
-</div>
-</div>
-<a class="company-logo fr" href="/com/com_abxfhepkjdxm" target="_blank">
-<img src="https://sxsimg.xiaoyuanzhao.com/C9/75/C97A9FCACD3652FE3634CD57FB160075.jpg">
-</a>
-<div class="company-info fr">
-<a class="company-name" href="/com/com_abxfhepkjdxm" target="_blank"> </a>
-<div class="company-more-info clearfix">
-<span>计算机/互联网</span><span>/500-2000人</span>
-</div>
-</div>
-</li>
-<!--<li class="font">-->
-<!--<div class="info1">-->
-<!--<div class="name-box clearfix"><a class="name" href="/intern/inn_qh6sdtrxqqwt" target="_blank" data-info="inn_qh6sdtrxqqwt" data-sa="click" data-sevent="jb_click" data-starget="/intern/inn_qh6sdtrxqqwt" data-sinfo="{&quot;intern_uuid&quot;: &quot;inn_qh6sdtrxqqwt&quot;, &quot;source_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;search_port&quot;: &quot;搜索&quot;}" data-sname="95" data-desc="search-职位名称">实时&#xf14c算&#xedb4&#xe4ef&#xe7a7（校&#xe64b）</a>-->
-<!---->
-<!---->
-<!--<span class="release-time">3小时前</span></div>-->
-<!--<div class="company-box"><a class="company" href="/com/com_abxfhepkjdxm" target="_blank" data-sa="click" data-sevent="com_click" data-starget="/com/com_abxfhepkjdxm" data-sinfo="{&quot;click_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;com_uuid&quot;: &quot;com_abxfhepkjdxm&quot;}" data-sname="96" data-desc="search-公司名称">&#xe3ee&#xe8cc &#xf6b6&#xe8d7&#xefc1&#xe6fa&#xeff9</a>-->
-<!---->
-<!--<span>-</span>-->
-<!--<span class="type">云计算/大数据</span>-->
-<!---->
-<!---->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="info2">-->
-<!--<div class="area">北京</div>-->
-<!--<div class="more">-->
-<!--<span>&#xe28a&#xeb93&#xeb93-&#xee0b&#xeb93&#xeb93/天</span>|<span>&#xf22c天/周</span>|<span>&#xf22c个月</span>-->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="logo">-->
-<!--<a href="/com/com_abxfhepkjdxm" target="_blank" >-->
-<!--<img src="https://sxsimg.xiaoyuanzhao.com/C9/75/C97A9FCACD3652FE3634CD57FB160075.jpg" data-sa="click" data-sevent="com_click" data-starget="/com/com_abxfhepkjdxm" data-sinfo="{&quot;click_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;com_uuid&quot;: &quot;com_abxfhepkjdxm&quot;}" data-sname="97" data-desc="search-公司logo" alt="&#xe3ee&#xe8cc &#xf6b6&#xe8d7&#xefc1&#xe6fa&#xeff9实习招聘"/>-->
-<!--</a>-->
-<!--</div>-->
-<!--</li>-->
-
-<li class="position-item clearfix font">
-<div class="position-info fl">
-<div class="info1 clearfix">
-<a class="position-name fl" href="/intern/inn_vlqfeapec7uo" target="_blank">大数据开发实习</a>
-<span class="position-salary fl">-/天</span>
-</div>
-<div class="info2 clearfix">
-<span>北京</span>
-<span>天/周</span>
-<span>个月</span>
-</div>
-</div>
-<a class="company-logo fr" href="/com/com_rlqjlvzrq9ug" target="_blank">
-<img src="https://sxsimg.xiaoyuanzhao.com/06/E1/06321C3A941BCAE5F621A33D85DC26E1.png">
-</a>
-<div class="company-info fr">
-<a class="company-name" href="/com/com_rlqjlvzrq9ug" target="_blank">深醒科技</a>
-<div class="company-more-info clearfix">
-<span>计算机/互联网</span><span>/150-500人</span>
-</div>
-</div>
-</li>
-<!--<li class="font">-->
-<!--<div class="info1">-->
-<!--<div class="name-box clearfix"><a class="name" href="/intern/inn_vlqfeapec7uo" target="_blank" data-info="inn_vlqfeapec7uo" data-sa="click" data-sevent="jb_click" data-starget="/intern/inn_vlqfeapec7uo" data-sinfo="{&quot;intern_uuid&quot;: &quot;inn_vlqfeapec7uo&quot;, &quot;source_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;search_port&quot;: &quot;搜索&quot;}" data-sname="95" data-desc="search-职位名称">大数据开发实习&#xf31d</a>-->
-<!---->
-<!---->
-<!--<span class="release-time">2小时前</span></div>-->
-<!--<div class="company-box"><a class="company" href="/com/com_rlqjlvzrq9ug" target="_blank" data-sa="click" data-sevent="com_click" data-starget="/com/com_rlqjlvzrq9ug" data-sinfo="{&quot;click_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;com_uuid&quot;: &quot;com_rlqjlvzrq9ug&quot;}" data-sname="96" data-desc="search-公司名称">深醒科技</a>-->
-<!---->
-<!--<span>-</span>-->
-<!--<span class="type">云计算/大数据</span>-->
-<!---->
-<!---->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="info2">-->
-<!--<div class="area">北京</div>-->
-<!--<div class="more">-->
-<!--<span>&#xe8ec&#xf22c&#xeb93-&#xe6bd&#xeb93&#xeb93/天</span>|<span>&#xee0b天/周</span>|<span>&#xf22c个月</span>-->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="logo">-->
-<!--<a href="/com/com_rlqjlvzrq9ug" target="_blank" >-->
-<!--<img src="https://sxsimg.xiaoyuanzhao.com/06/E1/06321C3A941BCAE5F621A33D85DC26E1.png" data-sa="click" data-sevent="com_click" data-starget="/com/com_rlqjlvzrq9ug" data-sinfo="{&quot;click_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;com_uuid&quot;: &quot;com_rlqjlvzrq9ug&quot;}" data-sname="97" data-desc="search-公司logo" alt="深醒科技实习招聘"/>-->
-<!--</a>-->
-<!--</div>-->
-<!--</li>-->
-
-<li class="position-item clearfix font">
-<div class="position-info fl">
-<div class="info1 clearfix">
-<a class="position-name fl" href="/intern/inn_wmfjmlsxo4kv" target="_blank">算机电子书编辑</a>
-<span class="position-salary fl">-/天</span>
-</div>
-<div class="info2 clearfix">
-<span>北京</span>
-<span>天/周</span>
-<span>个月</span>
-</div>
-</div>
-<a class="company-logo fr" href="/com/com_lzljfz9jvwuu" target="_blank">
-<img src="https://sxsimg.xiaoyuanzhao.com/E0/97/E0C4778CDAE5ABC997B86E801052C597.png">
-</a>
-<div class="company-info fr">
-<a class="company-name" href="/com/com_lzljfz9jvwuu" target="_blank">圣才教育</a>
-<div class="company-more-info clearfix">
-<span>教育培训</span><span>/150-500人</span>
-</div>
-</div>
-</li>
-<!--<li class="font">-->
-<!--<div class="info1">-->
-<!--<div class="name-box clearfix"><a class="name" href="/intern/inn_wmfjmlsxo4kv" target="_blank" data-info="inn_wmfjmlsxo4kv" data-sa="click" data-sevent="jb_click" data-starget="/intern/inn_wmfjmlsxo4kv" data-sinfo="{&quot;intern_uuid&quot;: &quot;inn_wmfjmlsxo4kv&quot;, &quot;source_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;search_port&quot;: &quot;搜索&quot;}" data-sname="95" data-desc="search-职位名称">&#xf14c算机电子书编辑</a>-->
-<!---->
-<!---->
-<!--<span class="release-time">2小时前</span></div>-->
-<!--<div class="company-box"><a class="company" href="/com/com_lzljfz9jvwuu" target="_blank" data-sa="click" data-sevent="com_click" data-starget="/com/com_lzljfz9jvwuu" data-sinfo="{&quot;click_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;com_uuid&quot;: &quot;com_lzljfz9jvwuu&quot;}" data-sname="96" data-desc="search-公司名称">圣才教育</a>-->
-<!---->
-<!--<span>-</span>-->
-<!--<span class="type">数据库</span>-->
-<!---->
-<!---->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="info2">-->
-<!--<div class="area">北京</div>-->
-<!--<div class="more">-->
-<!--<span>&#xe8ec&#xeb93&#xeb93-&#xe8ec&#xf22c&#xeb93/天</span>|<span>&#xf22c天/周</span>|<span>&#xee0b个月</span>-->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="logo">-->
-<!--<a href="/com/com_lzljfz9jvwuu" target="_blank" >-->
-<!--<img src="https://sxsimg.xiaoyuanzhao.com/E0/97/E0C4778CDAE5ABC997B86E801052C597.png" data-sa="click" data-sevent="com_click" data-starget="/com/com_lzljfz9jvwuu" data-sinfo="{&quot;click_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;com_uuid&quot;: &quot;com_lzljfz9jvwuu&quot;}" data-sname="97" data-desc="search-公司logo" alt="圣才教育实习招聘"/>-->
-<!--</a>-->
-<!--</div>-->
-<!--</li>-->
-
-<li class="position-item clearfix font">
-<div class="position-info fl">
-<div class="info1 clearfix">
-<a class="position-name fl" href="/intern/inn_n4nysmuzqydk" target="_blank">物流数据实习</a>
-<span class="position-salary fl">-/天</span>
-</div>
-<div class="info2 clearfix">
-<span>北京</span>
-<span>天/周</span>
-<span>个月</span>
-</div>
-</div>
-<a class="company-logo fr" href="/com/com_pcft33wpsz6x" target="_blank">
-<img src="https://sxsimg.xiaoyuanzhao.com/AA/27/AA99A3B0B5B22B9A03E78850E0D8A227.png">
-</a>
-<div class="company-info fr">
-<a class="company-name" href="/com/com_pcft33wpsz6x" target="_blank">京东</a>
-<div class="company-more-info clearfix">
-<span>计算机/互联网</span><span>/2000人以上</span>
-</div>
-</div>
-</li>
-<!--<li class="font">-->
-<!--<div class="info1">-->
-<!--<div class="name-box clearfix"><a class="name" href="/intern/inn_n4nysmuzqydk" target="_blank" data-info="inn_n4nysmuzqydk" data-sa="click" data-sevent="jb_click" data-starget="/intern/inn_n4nysmuzqydk" data-sinfo="{&quot;intern_uuid&quot;: &quot;inn_n4nysmuzqydk&quot;, &quot;source_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;search_port&quot;: &quot;搜索&quot;}" data-sname="95" data-desc="search-职位名称">物流数据实习&#xf31d</a>-->
-<!---->
-<!---->
-<!--<span class="release-time">4小时前</span></div>-->
-<!--<div class="company-box"><a class="company" href="/com/com_pcft33wpsz6x" target="_blank" data-sa="click" data-sevent="com_click" data-starget="/com/com_pcft33wpsz6x" data-sinfo="{&quot;click_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;com_uuid&quot;: &quot;com_pcft33wpsz6x&quot;}" data-sname="96" data-desc="search-公司名称">京东</a>-->
-<!---->
-<!--<span>-</span>-->
-<!--<span class="type">物流</span>-->
-<!---->
-<!---->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="info2">-->
-<!--<div class="area">北京</div>-->
-<!--<div class="more">-->
-<!--<span>&#xe8ec&#xeb93&#xeb93-&#xe8ec&#xf22c&#xeb93/天</span>|<span>&#xf22c天/周</span>|<span>&#xee0b个月</span>-->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="logo">-->
-<!--<a href="/com/com_pcft33wpsz6x" target="_blank" >-->
-<!--<img src="https://sxsimg.xiaoyuanzhao.com/AA/27/AA99A3B0B5B22B9A03E78850E0D8A227.png" data-sa="click" data-sevent="com_click" data-starget="/com/com_pcft33wpsz6x" data-sinfo="{&quot;click_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;com_uuid&quot;: &quot;com_pcft33wpsz6x&quot;}" data-sname="97" data-desc="search-公司logo" alt="京东实习招聘"/>-->
-<!--</a>-->
-<!--</div>-->
-<!--</li>-->
-
-<li class="position-item clearfix font">
-<div class="position-info fl">
-<div class="info1 clearfix">
-<a class="position-name fl" href="/intern/inn_rqjns8y1vfqg" target="_blank">部实习 </a>
-<span class="position-salary fl">-/天</span>
-</div>
-<div class="info2 clearfix">
-<span>北京</span>
-<span>天/周</span>
-<span>个月</span>
-</div>
-</div>
-<a class="company-logo fr" href="/com/com_mag6xitdm4vq" target="_blank">
-<img src="https://sxsimg.xiaoyuanzhao.com/CE/63/CE189ACBFF94607E7E00CA08F4992D63.jpg">
-</a>
-<div class="company-info fr">
-<a class="company-name" href="/com/com_mag6xitdm4vq" target="_blank">西云数据</a>
-<div class="company-more-info clearfix">
-<span>计算机/互联网</span><span>/150-500人</span>
-</div>
-</div>
-</li>
-<!--<li class="font">-->
-<!--<div class="info1">-->
-<!--<div class="name-box clearfix"><a class="name" href="/intern/inn_rqjns8y1vfqg" target="_blank" data-info="inn_rqjns8y1vfqg" data-sa="click" data-sevent="jb_click" data-starget="/intern/inn_rqjns8y1vfqg" data-sinfo="{&quot;intern_uuid&quot;: &quot;inn_rqjns8y1vfqg&quot;, &quot;source_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;search_port&quot;: &quot;搜索&quot;}" data-sname="95" data-desc="search-职位名称">&#xee6e&#xe4a0部实习&#xf31d&#xe79c&#xe7e2&#xe8d7&#xf4ab&#xf4de&#xe0e1&#xe75c&#xe3e0&#xe6a5 &#xf18d&#xe3e0&#xe0e1&#xf4de&#xe8d7&#xe3e0</a>-->
-<!---->
-<!---->
-<!--<span class="release-time">27小时前</span></div>-->
-<!--<div class="company-box"><a class="company" href="/com/com_mag6xitdm4vq" target="_blank" data-sa="click" data-sevent="com_click" data-starget="/com/com_mag6xitdm4vq" data-sinfo="{&quot;click_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;com_uuid&quot;: &quot;com_mag6xitdm4vq&quot;}" data-sname="96" data-desc="search-公司名称">西云数据</a>-->
-<!---->
-<!--<span>-</span>-->
-<!--<span class="type">商务</span>-->
-<!---->
-<!---->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="info2">-->
-<!--<div class="area">北京</div>-->
-<!--<div class="more">-->
-<!--<span>&#xe8ec&#xeb93&#xeb93-&#xe8ec&#xf22c&#xeb93/天</span>|<span>&#xe28a天/周</span>|<span>&#xe28a个月</span>-->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="logo">-->
-<!--<a href="/com/com_mag6xitdm4vq" target="_blank" >-->
-<!--<img src="https://sxsimg.xiaoyuanzhao.com/CE/63/CE189ACBFF94607E7E00CA08F4992D63.jpg" data-sa="click" data-sevent="com_click" data-starget="/com/com_mag6xitdm4vq" data-sinfo="{&quot;click_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;com_uuid&quot;: &quot;com_mag6xitdm4vq&quot;}" data-sname="97" data-desc="search-公司logo" alt="西云数据实习招聘"/>-->
-<!--</a>-->
-<!--</div>-->
-<!--</li>-->
-
-<li class="position-item clearfix font">
-<div class="position-info fl">
-<div class="info1 clearfix">
-<a class="position-name fl" href="/intern/inn_timu7fquxqea" target="_blank">数据分析（偏运营）</a>
-<span class="position-salary fl">-/天</span>
-</div>
-<div class="info2 clearfix">
-<span>北京</span>
-<span>天/周</span>
-<span>个月</span>
-</div>
-</div>
-<a class="company-logo fr" href="/com/com_mjdrcuswcwfe" target="_blank">
-<img src="https://sxsimg.xiaoyuanzhao.com/35/8D/35896B812AED8A8B74B439AF77ACDA8D.jpg">
-</a>
-<div class="company-info fr">
-<a class="company-name" href="/com/com_mjdrcuswcwfe" target="_blank">浪潮云</a>
-<div class="company-more-info clearfix">
-<span>计算机/互联网</span><span>/2000人以上</span>
-</div>
-</div>
-</li>
-<!--<li class="font">-->
-<!--<div class="info1">-->
-<!--<div class="name-box clearfix"><a class="name" href="/intern/inn_timu7fquxqea" target="_blank" data-info="inn_timu7fquxqea" data-sa="click" data-sevent="jb_click" data-starget="/intern/inn_timu7fquxqea" data-sinfo="{&quot;intern_uuid&quot;: &quot;inn_timu7fquxqea&quot;, &quot;source_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;search_port&quot;: &quot;搜索&quot;}" data-sname="95" data-desc="search-职位名称">数据分析&#xe7a7（偏运营）</a>-->
-<!---->
-<!---->
-<!--<span class="release-time">19小时前</span></div>-->
-<!--<div class="company-box"><a class="company" href="/com/com_mjdrcuswcwfe" target="_blank" data-sa="click" data-sevent="com_click" data-starget="/com/com_mjdrcuswcwfe" data-sinfo="{&quot;click_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;com_uuid&quot;: &quot;com_mjdrcuswcwfe&quot;}" data-sname="96" data-desc="search-公司名称">浪潮云</a>-->
-<!---->
-<!--<span>-</span>-->
-<!--<span class="type">产品运营</span>-->
-<!---->
-<!---->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="info2">-->
-<!--<div class="area">北京</div>-->
-<!--<div class="more">-->
-<!--<span>&#xe8ec&#xeb93&#xeb93-&#xe8ec&#xf22c&#xeb93/天</span>|<span>&#xee0b天/周</span>|<span>&#xee0b个月</span>-->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="logo">-->
-<!--<a href="/com/com_mjdrcuswcwfe" target="_blank" >-->
-<!--<img src="https://sxsimg.xiaoyuanzhao.com/35/8D/35896B812AED8A8B74B439AF77ACDA8D.jpg" data-sa="click" data-sevent="com_click" data-starget="/com/com_mjdrcuswcwfe" data-sinfo="{&quot;click_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;com_uuid&quot;: &quot;com_mjdrcuswcwfe&quot;}" data-sname="97" data-desc="search-公司logo" alt="浪潮云实习招聘"/>-->
-<!--</a>-->
-<!--</div>-->
-<!--</li>-->
-
-<li class="position-item clearfix font">
-<div class="position-info fl">
-<div class="info1 clearfix">
-<a class="position-name fl" href="/intern/inn_ee1gczcokrmf" target="_blank">数据标注实习</a>
-<span class="position-salary fl">-/天</span>
-</div>
-<div class="info2 clearfix">
-<span>北京</span>
-<span>天/周</span>
-<span>个月</span>
-</div>
-</div>
-<a class="company-logo fr" href="/com/com_xllk83z5izox" target="_blank">
-<img src="https://sxsimg.xiaoyuanzhao.com/61/45/616D259CC8DC60CCE1DB2835D87BC245.jpg">
-</a>
-<div class="company-info fr">
-<a class="company-name" href="/com/com_xllk83z5izox" target="_blank">地平线</a>
-<div class="company-more-info clearfix">
-<span>互联网</span><span>/500-2000人</span>
-</div>
-</div>
-</li>
-<!--<li class="font">-->
-<!--<div class="info1">-->
-<!--<div class="name-box clearfix"><a class="name" href="/intern/inn_ee1gczcokrmf" target="_blank" data-info="inn_ee1gczcokrmf" data-sa="click" data-sevent="jb_click" data-starget="/intern/inn_ee1gczcokrmf" data-sinfo="{&quot;intern_uuid&quot;: &quot;inn_ee1gczcokrmf&quot;, &quot;source_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;search_port&quot;: &quot;搜索&quot;}" data-sname="95" data-desc="search-职位名称">数据标注实习&#xf31d</a>-->
-<!---->
-<!---->
-<!--<span class="release-time">1月前</span></div>-->
-<!--<div class="company-box"><a class="company" href="/com/com_xllk83z5izox" target="_blank" data-sa="click" data-sevent="com_click" data-starget="/com/com_xllk83z5izox" data-sinfo="{&quot;click_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;com_uuid&quot;: &quot;com_xllk83z5izox&quot;}" data-sname="96" data-desc="search-公司名称">地平线</a>-->
-<!---->
-<!--<span>-</span>-->
-<!--<span class="type">其他类型</span>-->
-<!---->
-<!---->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="info2">-->
-<!--<div class="area">北京</div>-->
-<!--<div class="more">-->
-<!--<span>&#xe8ec&#xe6bd&#xeb93-&#xe6bd&#xeb93&#xeb93/天</span>|<span>&#xee0b天/周</span>|<span>&#xe28a个月</span>-->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="logo">-->
-<!--<a href="/com/com_xllk83z5izox" target="_blank" >-->
-<!--<img src="https://sxsimg.xiaoyuanzhao.com/61/45/616D259CC8DC60CCE1DB2835D87BC245.jpg" data-sa="click" data-sevent="com_click" data-starget="/com/com_xllk83z5izox" data-sinfo="{&quot;click_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;com_uuid&quot;: &quot;com_xllk83z5izox&quot;}" data-sname="97" data-desc="search-公司logo" alt="地平线实习招聘"/>-->
-<!--</a>-->
-<!--</div>-->
-<!--</li>-->
-
-<li class="position-item clearfix font">
-<div class="position-info fl">
-<div class="info1 clearfix">
-<a class="position-name fl" href="/intern/inn_zqfaxv9x4khc" target="_blank">数据整理</a>
-<span class="position-salary fl">-/天</span>
-</div>
-<div class="info2 clearfix">
-<span>北京</span>
-<span>天/周</span>
-<span>个月</span>
-</div>
-</div>
-<a class="company-logo fr" href="/com/com_a1evkcqosaq2" target="_blank">
-<img src="https://sxsimg.xiaoyuanzhao.com/7F/6C/7FE70418F6724CEC091FDD4F7799B76C.jpg">
-</a>
-<div class="company-info fr">
-<a class="company-name" href="/com/com_a1evkcqosaq2" target="_blank">博彦科技</a>
-<div class="company-more-info clearfix">
-<span>计算机/互联网</span><span>/2000人以上</span>
-</div>
-</div>
-</li>
-<!--<li class="font">-->
-<!--<div class="info1">-->
-<!--<div class="name-box clearfix"><a class="name" href="/intern/inn_zqfaxv9x4khc" target="_blank" data-info="inn_zqfaxv9x4khc" data-sa="click" data-sevent="jb_click" data-starget="/intern/inn_zqfaxv9x4khc" data-sinfo="{&quot;intern_uuid&quot;: &quot;inn_zqfaxv9x4khc&quot;, &quot;source_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;search_port&quot;: &quot;搜索&quot;}" data-sname="95" data-desc="search-职位名称">数据整理</a>-->
-<!---->
-<!---->
-<!--<span class="release-time">19小时前</span></div>-->
-<!--<div class="company-box"><a class="company" href="/com/com_a1evkcqosaq2" target="_blank" data-sa="click" data-sevent="com_click" data-starget="/com/com_a1evkcqosaq2" data-sinfo="{&quot;click_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;com_uuid&quot;: &quot;com_a1evkcqosaq2&quot;}" data-sname="96" data-desc="search-公司名称">博彦科技</a>-->
-<!---->
-<!--<span>-</span>-->
-<!--<span class="type">内容运营</span>-->
-<!---->
-<!---->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="info2">-->
-<!--<div class="area">北京</div>-->
-<!--<div class="more">-->
-<!--<span>&#xe8ec&#xeb93&#xeb93-&#xe8ec&#xf22c&#xeb93/天</span>|<span>&#xf22c天/周</span>|<span>&#xe2fc个月</span>-->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="logo">-->
-<!--<a href="/com/com_a1evkcqosaq2" target="_blank" >-->
-<!--<img src="https://sxsimg.xiaoyuanzhao.com/7F/6C/7FE70418F6724CEC091FDD4F7799B76C.jpg" data-sa="click" data-sevent="com_click" data-starget="/com/com_a1evkcqosaq2" data-sinfo="{&quot;click_page&quot;: &quot;/interns/c-110100_st-intern_?k=数据&quot;, &quot;com_uuid&quot;: &quot;com_a1evkcqosaq2&quot;}" data-sname="97" data-desc="search-公司logo" alt="博彦科技实习招聘"/>-->
-<!--</a>-->
-<!--</div>-->
-<!--</li>-->
-
-</ul>
-<div id="pagebar" class="pagination">
-<ul>
-
-
-
-
-
-<li class="disabled"><span>首页</span></li>
-<li class="disabled"><span>上一页</span></li>
-
-
-
-<li class="active"><a title="第1页 / 共79页">1</a></li>
-
-<li><a title="第2页 / 共79页" href="/interns/c-110100_st-intern_?k=%E6%95%B0%E6%8D%AE&amp;p=2">2</a></li>
-
-<li><a title="第3页 / 共79页" href="/interns/c-110100_st-intern_?k=%E6%95%B0%E6%8D%AE&amp;p=3">3</a></li>
-
-<li><a title="第4页 / 共79页" href="/interns/c-110100_st-intern_?k=%E6%95%B0%E6%8D%AE&amp;p=4">4</a></li>
-
-<li><a title="第5页 / 共79页" href="/interns/c-110100_st-intern_?k=%E6%95%B0%E6%8D%AE&amp;p=5">5</a></li>
-
-<li><a title="第6页 / 共79页" href="/interns/c-110100_st-intern_?k=%E6%95%B0%E6%8D%AE&amp;p=6">6</a></li>
-
-
-
-<li><a href="/interns/c-110100_st-intern_?k=%E6%95%B0%E6%8D%AE&amp;p=2">下一页</a></li>
-<li><a href="/interns/c-110100_st-intern_?k=%E6%95%B0%E6%8D%AE&amp;p=79">尾页</a></li>
-
-
-
-
-
-</ul>
-
+<div class="tip login">
+已有账号，直接登录
 </div>
 
 </div>
-<div class="recommend"><a href="https://www.shixiseng.com/operations/click/add_nllokpje3lct?link=https%3A%2F%2Fxiaoyuan.shixiseng.com%2Fcompany%2Fxri_hbefnqncjbez" target="_blank" data-simg="https://www.shixiseng.com/user/action?event_type=load&amp;curt_id=3ce4b72e-51e4-11e9-8348-00163e131d5b&amp;prev_id=05d7538f-826e-c9ce-be84-bbd95ba88911&amp;event_info=%7B%22ad_uuid%22%3A%22add_nllokpje3lct%22%7D&amp;event=ad_exposure&amp;target=https%3A%2F%2Fxiaoyuan.shixiseng.com%2Fcompany%2Fxri_hbefnqncjbez&amp;uuid=444a617c-b16e-607e-930a-94251b2df0df&amp;url=https%253A%2F%2Fwww.shixiseng.com%2Finterns%2Fc-110100_st-intern_%253Fk%253D%2525E6%252595%2525B0%2525E6%25258D%2525AE&amp;referrer=https%3A%2F%2Fwww.shixiseng.com%2Finterns%2Fc-110100_%3Fk%3D%26p%3D1&amp;uri=%2Finterns%2Fc-110100_st-intern_&amp;source=pc" data-sa="click" data-sevent="ad_click" data-starget="https://www.shixiseng.com/operations/click/add_nllokpje3lct?link=https%3A%2F%2Fxiaoyuan.shixiseng.com%2Fcompany%2Fxri_hbefnqncjbez" data-sinfo="{&quot;ad_uuid&quot;:&quot;add_nllokpje3lct&quot;}" data-sname="162"><img src="https://www.shixiseng.com/user/action?event_type=load&amp;curt_id=3ce4b72e-51e4-11e9-8348-00163e131d5b&amp;prev_id=05d7538f-826e-c9ce-be84-bbd95ba88911&amp;event_info=%7B%22ad_uuid%22%3A%22add_nllokpje3lct%22%7D&amp;event=ad_exposure&amp;target=https%3A%2F%2Fxiaoyuan.shixiseng.com%2Fcompany%2Fxri_hbefnqncjbez&amp;uuid=444a617c-b16e-607e-930a-94251b2df0df&amp;url=https%253A%2F%2Fwww.shixiseng.com%2Finterns%2Fc-110100_st-intern_%253Fk%253D%2525E6%252595%2525B0%2525E6%25258D%2525AE&amp;referrer=https%3A%2F%2Fwww.shixiseng.com%2Finterns%2Fc-110100_%3Fk%3D%26p%3D1&amp;uri=%2Finterns%2Fc-110100_st-intern_&amp;source=pc" class="hideimg"><img src="https://sxsimg.xiaoyuanzhao.com/AD/7F/AD75F7095D6A658D1998FA1FB6AA9F7F.png" alt="宝洁"></a><a href="https://www.shixiseng.com/operations/click/add_v3uzi1w36vbv?link=https%3A%2F%2Fxiaoyuan.shixiseng.com%2Ftc%2Fspring" target="_blank" data-simg="https://www.shixiseng.com/user/action?event_type=load&amp;curt_id=3ce4bfda-51e4-11e9-8348-00163e131d5b&amp;prev_id=05d7538f-826e-c9ce-be84-bbd95ba88911&amp;event_info=%7B%22ad_uuid%22%3A%22add_v3uzi1w36vbv%22%7D&amp;event=ad_exposure&amp;target=https%3A%2F%2Fxiaoyuan.shixiseng.com%2Ftc%2Fspring&amp;uuid=444a617c-b16e-607e-930a-94251b2df0df&amp;url=https%253A%2F%2Fwww.shixiseng.com%2Finterns%2Fc-110100_st-intern_%253Fk%253D%2525E6%252595%2525B0%2525E6%25258D%2525AE&amp;referrer=https%3A%2F%2Fwww.shixiseng.com%2Finterns%2Fc-110100_%3Fk%3D%26p%3D1&amp;uri=%2Finterns%2Fc-110100_st-intern_&amp;source=pc" data-sa="click" data-sevent="ad_click" data-starget="https://www.shixiseng.com/operations/click/add_v3uzi1w36vbv?link=https%3A%2F%2Fxiaoyuan.shixiseng.com%2Ftc%2Fspring" data-sinfo="{&quot;ad_uuid&quot;:&quot;add_v3uzi1w36vbv&quot;}" data-sname="162"><img src="https://www.shixiseng.com/user/action?event_type=load&amp;curt_id=3ce4bfda-51e4-11e9-8348-00163e131d5b&amp;prev_id=05d7538f-826e-c9ce-be84-bbd95ba88911&amp;event_info=%7B%22ad_uuid%22%3A%22add_v3uzi1w36vbv%22%7D&amp;event=ad_exposure&amp;target=https%3A%2F%2Fxiaoyuan.shixiseng.com%2Ftc%2Fspring&amp;uuid=444a617c-b16e-607e-930a-94251b2df0df&amp;url=https%253A%2F%2Fwww.shixiseng.com%2Finterns%2Fc-110100_st-intern_%253Fk%253D%2525E6%252595%2525B0%2525E6%25258D%2525AE&amp;referrer=https%3A%2F%2Fwww.shixiseng.com%2Finterns%2Fc-110100_%3Fk%3D%26p%3D1&amp;uri=%2Finterns%2Fc-110100_st-intern_&amp;source=pc" class="hideimg"><img src="https://sxsimg.xiaoyuanzhao.com/4E/EA/4E2C0B7D975CC0E187CBA353C66096EA.png" alt="春招万能市集"></a><a href="https://www.shixiseng.com/operations/click/add_mvpupznsapmj?link=https%3A%2F%2Fwww.shixiseng.com%2Ftc%2Fshuangxuanhui" target="_blank" data-simg="https://www.shixiseng.com/user/action?event_type=load&amp;curt_id=3ce4c6b0-51e4-11e9-8348-00163e131d5b&amp;prev_id=05d7538f-826e-c9ce-be84-bbd95ba88911&amp;event_info=%7B%22ad_uuid%22%3A%22add_mvpupznsapmj%22%7D&amp;event=ad_exposure&amp;target=https%3A%2F%2Fwww.shixiseng.com%2Ftc%2Fshuangxuanhui&amp;uuid=444a617c-b16e-607e-930a-94251b2df0df&amp;url=https%253A%2F%2Fwww.shixiseng.com%2Finterns%2Fc-110100_st-intern_%253Fk%253D%2525E6%252595%2525B0%2525E6%25258D%2525AE&amp;referrer=https%3A%2F%2Fwww.shixiseng.com%2Finterns%2Fc-110100_%3Fk%3D%26p%3D1&amp;uri=%2Finterns%2Fc-110100_st-intern_&amp;source=pc" data-sa="click" data-sevent="ad_click" data-starget="https://www.shixiseng.com/operations/click/add_mvpupznsapmj?link=https%3A%2F%2Fwww.shixiseng.com%2Ftc%2Fshuangxuanhui" data-sinfo="{&quot;ad_uuid&quot;:&quot;add_mvpupznsapmj&quot;}" data-sname="162"><img src="https://www.shixiseng.com/user/action?event_type=load&amp;curt_id=3ce4c6b0-51e4-11e9-8348-00163e131d5b&amp;prev_id=05d7538f-826e-c9ce-be84-bbd95ba88911&amp;event_info=%7B%22ad_uuid%22%3A%22add_mvpupznsapmj%22%7D&amp;event=ad_exposure&amp;target=https%3A%2F%2Fwww.shixiseng.com%2Ftc%2Fshuangxuanhui&amp;uuid=444a617c-b16e-607e-930a-94251b2df0df&amp;url=https%253A%2F%2Fwww.shixiseng.com%2Finterns%2Fc-110100_st-intern_%253Fk%253D%2525E6%252595%2525B0%2525E6%25258D%2525AE&amp;referrer=https%3A%2F%2Fwww.shixiseng.com%2Finterns%2Fc-110100_%3Fk%3D%26p%3D1&amp;uri=%2Finterns%2Fc-110100_st-intern_&amp;source=pc" class="hideimg"><img src="https://sxsimg.xiaoyuanzhao.com/FE/78/FE0040DBC9BF97536C2142B7610DD278.png" alt="实习双选会"></a><a href="https://www.shixiseng.com/operations/click/add_wxaiqfsqtnsq?link=https%3A%2F%2Fwww.shixiseng.com%2Ftc%2Fyoung" target="_blank" data-simg="https://www.shixiseng.com/user/action?event_type=load&amp;curt_id=3ce4cd5e-51e4-11e9-8348-00163e131d5b&amp;prev_id=05d7538f-826e-c9ce-be84-bbd95ba88911&amp;event_info=%7B%22ad_uuid%22%3A%22add_wxaiqfsqtnsq%22%7D&amp;event=ad_exposure&amp;target=https%3A%2F%2Fwww.shixiseng.com%2Ftc%2Fyoung&amp;uuid=444a617c-b16e-607e-930a-94251b2df0df&amp;url=https%253A%2F%2Fwww.shixiseng.com%2Finterns%2Fc-110100_st-intern_%253Fk%253D%2525E6%252595%2525B0%2525E6%25258D%2525AE&amp;referrer=https%3A%2F%2Fwww.shixiseng.com%2Finterns%2Fc-110100_%3Fk%3D%26p%3D1&amp;uri=%2Finterns%2Fc-110100_st-intern_&amp;source=pc" data-sa="click" data-sevent="ad_click" data-starget="https://www.shixiseng.com/operations/click/add_wxaiqfsqtnsq?link=https%3A%2F%2Fwww.shixiseng.com%2Ftc%2Fyoung" data-sinfo="{&quot;ad_uuid&quot;:&quot;add_wxaiqfsqtnsq&quot;}" data-sname="162"><img src="https://www.shixiseng.com/user/action?event_type=load&amp;curt_id=3ce4cd5e-51e4-11e9-8348-00163e131d5b&amp;prev_id=05d7538f-826e-c9ce-be84-bbd95ba88911&amp;event_info=%7B%22ad_uuid%22%3A%22add_wxaiqfsqtnsq%22%7D&amp;event=ad_exposure&amp;target=https%3A%2F%2Fwww.shixiseng.com%2Ftc%2Fyoung&amp;uuid=444a617c-b16e-607e-930a-94251b2df0df&amp;url=https%253A%2F%2Fwww.shixiseng.com%2Finterns%2Fc-110100_st-intern_%253Fk%253D%2525E6%252595%2525B0%2525E6%25258D%2525AE&amp;referrer=https%3A%2F%2Fwww.shixiseng.com%2Finterns%2Fc-110100_%3Fk%3D%26p%3D1&amp;uri=%2Finterns%2Fc-110100_st-intern_&amp;source=pc" class="hideimg"><img src="https://sxsimg.xiaoyuanzhao.com/47/37/47BDCD965D073ACC0900861D8817B837.png" alt="年轻实力派招聘专场"></a><a href="https://www.shixiseng.com/operations/click/add_pyw5jfutg6zw?link=https%3A%2F%2Fwww.shixiseng.com%2Ftc%2Frlzc" target="_blank" data-simg="https://www.shixiseng.com/user/action?event_type=load&amp;curt_id=3ce4d3bc-51e4-11e9-8348-00163e131d5b&amp;prev_id=05d7538f-826e-c9ce-be84-bbd95ba88911&amp;event_info=%7B%22ad_uuid%22%3A%22add_pyw5jfutg6zw%22%7D&amp;event=ad_exposure&amp;target=https%3A%2F%2Fwww.shixiseng.com%2Ftc%2Frlzc&amp;uuid=444a617c-b16e-607e-930a-94251b2df0df&amp;url=https%253A%2F%2Fwww.shixiseng.com%2Finterns%2Fc-110100_st-intern_%253Fk%253D%2525E6%252595%2525B0%2525E6%25258D%2525AE&amp;referrer=https%3A%2F%2Fwww.shixiseng.com%2Finterns%2Fc-110100_%3Fk%3D%26p%3D1&amp;uri=%2Finterns%2Fc-110100_st-intern_&amp;source=pc" data-sa="click" data-sevent="ad_click" data-starget="https://www.shixiseng.com/operations/click/add_pyw5jfutg6zw?link=https%3A%2F%2Fwww.shixiseng.com%2Ftc%2Frlzc" data-sinfo="{&quot;ad_uuid&quot;:&quot;add_pyw5jfutg6zw&quot;}" data-sname="162"><img src="https://www.shixiseng.com/user/action?event_type=load&amp;curt_id=3ce4d3bc-51e4-11e9-8348-00163e131d5b&amp;prev_id=05d7538f-826e-c9ce-be84-bbd95ba88911&amp;event_info=%7B%22ad_uuid%22%3A%22add_pyw5jfutg6zw%22%7D&amp;event=ad_exposure&amp;target=https%3A%2F%2Fwww.shixiseng.com%2Ftc%2Frlzc&amp;uuid=444a617c-b16e-607e-930a-94251b2df0df&amp;url=https%253A%2F%2Fwww.shixiseng.com%2Finterns%2Fc-110100_st-intern_%253Fk%253D%2525E6%252595%2525B0%2525E6%25258D%2525AE&amp;referrer=https%3A%2F%2Fwww.shixiseng.com%2Finterns%2Fc-110100_%3Fk%3D%26p%3D1&amp;uri=%2Finterns%2Fc-110100_st-intern_&amp;source=pc" class="hideimg"><img src="https://sxsimg.xiaoyuanzhao.com/A5/E2/A5ED1B9F11A2C785A29ED63B25EECFE2.png" alt="人事行政专场"></a></div>
+</div>
+</div>
+<!--城市选择-->
+<div class="sxs--modal">
+<div class="sxs--modal--bg"></div>
+<div class="sxs--modal--container" data-sxs-modal-id="not_complete" data-sxs-modal-id-num="0">
+<div class="sxs--modal--content" style="max-height: 877px;">
+<div class="sxs--modal--icon" data-icon="error"></div>
+<div class="sxs--modal--title">投递失败</div>
+<div class="sxs--modal--text" id="deli_faild">中文简历完整度小于54%，不能投递，请先完善简历~</div>
+<div class="sxs--modal--btn">
+<span data-style="active" class="sxs--modal--close" id="suc_close" data-modal-act-bind="1">返回</span>
 </div>
 </div>
 </div>
-<!--城市选择弹窗-->
-<div class="cover">
-<div class="city-box">
-<div class="title">选择城市</div>
-<div class="city-list">
-<div class="current"><span>当前城市</span><span>成都</span></div>
-<ul class="more-city">
-<li>
-<span>热门城市</span>
-<ul class="list-item clearfix">
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;热门城市&quot;, &quot;val&quot;: &quot;全国&quot;}" data-sevent="search_click" data-starget="" data-sname="310" data-desc="new_search-热门城市" data-val="None"> 全国 </li>
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;热门城市&quot;, &quot;val&quot;: &quot;北京&quot;}" data-sevent="search_click" data-starget="" data-sname="310" data-desc="new_search-热门城市" data-val="110100"> 北京 </li>
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;热门城市&quot;, &quot;val&quot;: &quot;上海&quot;}" data-sevent="search_click" data-starget="" data-sname="310" data-desc="new_search-热门城市" data-val="310100"> 上海 </li>
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;热门城市&quot;, &quot;val&quot;: &quot;广州&quot;}" data-sevent="search_click" data-starget="" data-sname="310" data-desc="new_search-热门城市" data-val="440100"> 广州 </li>
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;热门城市&quot;, &quot;val&quot;: &quot;成都&quot;}" data-sevent="search_click" data-starget="" data-sname="310" data-desc="new_search-热门城市" data-val="510100"> 成都 </li>
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;热门城市&quot;, &quot;val&quot;: &quot;深圳&quot;}" data-sevent="search_click" data-starget="" data-sname="310" data-desc="new_search-热门城市" data-val="440300"> 深圳 </li>
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;热门城市&quot;, &quot;val&quot;: &quot;武汉&quot;}" data-sevent="search_click" data-starget="" data-sname="310" data-desc="new_search-热门城市" data-val="420100"> 武汉 </li>
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;热门城市&quot;, &quot;val&quot;: &quot;南京&quot;}" data-sevent="search_click" data-starget="" data-sname="310" data-desc="new_search-热门城市" data-val="320100"> 南京 </li>
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;热门城市&quot;, &quot;val&quot;: &quot;大连&quot;}" data-sevent="search_click" data-starget="" data-sname="310" data-desc="new_search-热门城市" data-val="210200"> 大连 </li>
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;热门城市&quot;, &quot;val&quot;: &quot;天津&quot;}" data-sevent="search_click" data-starget="" data-sname="310" data-desc="new_search-热门城市" data-val="120100"> 天津 </li>
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;热门城市&quot;, &quot;val&quot;: &quot;西安&quot;}" data-sevent="search_click" data-starget="" data-sname="310" data-desc="new_search-热门城市" data-val="610100"> 西安 </li>
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;热门城市&quot;, &quot;val&quot;: &quot;杭州&quot;}" data-sevent="search_click" data-starget="" data-sname="310" data-desc="new_search-热门城市" data-val="330100"> 杭州 </li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</ul>
-</li>
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-<span>A-F</span>
-<ul class="list-item clearfix">
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;北京&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="110100"> 北京 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;成都&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="510100"> 成都 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;长春&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="220100"> 长春 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;重庆&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="500100"> 重庆 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;长沙&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="430100"> 长沙 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;南通&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="320600"> 南通 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;大连&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="210200"> 大连 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;大理&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="532900"> 大理 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;大庆&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="230600"> 大庆 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;德州&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="439900"> 德州 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;佛山&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="440600"> 佛山 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;福州&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="350100"> 福州 </li>
-
-
-
-
-
-
-</ul>
-</li>
-
-
-<li>
-<span>G-J</span>
-<ul class="list-item clearfix">
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;贵阳&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="520100"> 贵阳 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;杭州&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="330100"> 杭州 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;哈尔滨&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="230100"> 哈尔滨 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;合肥&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="340100"> 合肥 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;海口&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="460100"> 海口 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;湖州&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="330500"> 湖州 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;黄山&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="341000"> 黄山 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;海外&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="888888"> 海外 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;济南&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="370100"> 济南 </li>
-
-
-
-
-
-
-</ul>
-</li>
-
-
-<li>
-<span>K-R</span>
-<ul class="list-item clearfix">
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;兰州&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="620100"> 兰州 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;丽江&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="530700"> 丽江 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;丽水&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="331100"> 丽水 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;南京&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="320100"> 南京 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;南宁&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="450100"> 南宁 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;宁波&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="330200"> 宁波 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;南昌&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="360100"> 南昌 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;泉州&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="350500"> 泉州 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;青岛&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="370200"> 青岛 </li>
-
-
-
-
-
-
-</ul>
-</li>
-
-
-<li>
-<span>S-V</span>
-<ul class="list-item clearfix">
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;深圳&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="440300"> 深圳 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;苏州&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="320500"> 苏州 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;沈阳&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="210100"> 沈阳 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;韶关&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="440200"> 韶关 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;石家庄&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="130100"> 石家庄 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;天津&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="120100"> 天津 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;太原&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="140100"> 太原 </li>
-
-
-
-
-
-
-</ul>
-</li>
-
-
-<li>
-<span>W-Z</span>
-<ul class="list-item clearfix">
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;无锡&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="320200"> 无锡 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;温州&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="330300"> 温州 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;西安&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="610100"> 西安 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;香港&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="810000"> 香港 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;厦门&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="350200"> 厦门 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;郑州&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="410100"> 郑州 </li>
-
-
-
-
-
-<li class="md_hid" data-sa="click" data-sinfo="{&quot;name&quot;: &quot;城市选择&quot;, &quot;val&quot;: &quot;珠海&quot;}" data-sevent="search_click" data-starget="" data-sname="311" data-desc="new_search-城市筛选" data-val="440400"> 珠海 </li>
-
-
-
-</ul>
-</li>
-</ul>
+<div class="sxs--modal--container" data-sxs-modal-id="deliver_tip" data-sxs-modal-id-num="1">
+<div class="sxs--modal--content" style="max-height: 877px;">
+<div class="sxs--modal--icon" data-icon="error"></div>
+<div class="sxs--modal--title">投递失败</div>
+<div class="sxs--modal--text">您的投递次数已经达到每日上限啦~<br>温馨提示：<a href="/app/download?f=t">下载实习僧APP</a>, 即可立即增加5次投递机会哦</div>
+<div class="sxs--modal--btn">
+<span data-style="active" class="sxs--modal--close" data-modal-act-bind="1">关闭</span>
 </div>
 </div>
-<input id="md_hid" hidden="hidden" data-sa="click" data-sinfo="" data-sevent="search_click" data-starget="" data-sname="" data-desc="">
+</div>
+<div class="sxs--modal--container" data-sxs-modal-id="complete" data-sxs-modal-id-num="2">
+<div class="sxs--modal--content" style="max-height: 877px;">
+<div class="sxs--modal--icon" data-icon="tip"></div>
+<div class="sxs--modal--title">投递确认</div>
+<div class="sxs--modal--text" id="deli_prompt"></div>
+<div class="sxs--modal--btn">
+<span data-style="active" class="" id="del_pre" data-sa="click" data-sevent="intern_deliver" data-sname="112" data-desc="job_info-职位详情弹窗-确认投递" data-sinfo="{&quot;intern_uuid&quot;: &quot;inn_43ci5nyosovy&quot;, &quot;source_page&quot;: &quot;/intern/inn_43ci5nyosovy&quot;}" data-starget="">确认投递</span>
+<a data-style="primary" class="change_btn" href="">修改简历</a>
+</div>
+<div class="sxs--modal--text" style="text-align: right"><span class="sxs--modal--close" data-sa="click" data-sevent="intern_deliver" data-sname="113" data-desc="job_info-职位详情弹窗-放弃投递" data-sinfo="" data-starget="" data-modal-act-bind="1">放弃投递</span></div>
+</div>
+</div>
+<div class="sxs--modal--container" data-sxs-modal-id="success" data-sxs-modal-id-num="3">
+<div class="sxs--modal--content" style="max-height: 877px;">
+<div class="sxs--modal--icon" data-icon="success"></div>
+<div class="sxs--modal--title">投递成功</div>
+<div class="sxs--modal--text">温馨提示：若在求职过程中遇到收取费用，或实习地址、联系方式与官方发布信息不一致，请提高警惕，以防受骗，并及时与实习僧官方取得联系。</div>
+<div class="sxs--modal--btn">
+<span data-style="active" class="sxs--modal--close" id="suc_close" data-modal-act-bind="1">确认</span>
+</div>
+<div class="sxs--modal--text layer-deliver-success">
+
+
+
+<a href="http://mp.weixin.qq.com/s/-rXBZIWyK4xq9eW5t1UX-A" rel="nofollow" target="_blank">各大行业招聘对四六级有什么要求？</a>
+
+</div>
+</div>
+</div>
 </div>
 
 <!--老登录弹窗-->
@@ -1438,7 +611,7 @@ s.parentNode.insertBefore(hm, s);
 <!--<div class="login_jump">-->
 <!--<p class="not_user">-->
 <!--没有账号,直接-->
-<!--<a class="to_login f_col" href="/user/register?next=/interns/c-110100_st-intern_?k=%E6%95%B0%E6%8D%AE" target="_blank" data-sa="click" data-sname="23" data-sinfo="{&quot;name&quot;: &quot;注册&quot;}" data-starget="/user/register?next=/interns/c-110100_st-intern_?k=%E6%95%B0%E6%8D%AE" data-sevent="reg_click" data-desc="base-弹窗登录注册">注册</a>-->
+<!--<a class="to_login f_col" href="/user/register?next=/intern/inn_43ci5nyosovy" target="_blank" data-sa="click" data-sname="23" data-sinfo="{&quot;name&quot;: &quot;注册&quot;}" data-starget="/user/register?next=/intern/inn_43ci5nyosovy" data-sevent="reg_click" data-desc="base-弹窗登录注册">注册</a>-->
 <!--</p>-->
 <!--</div>-->
 <!--</form>-->
@@ -1497,11 +670,11 @@ s.parentNode.insertBefore(hm, s);
     <div class="point-code-wrap">
     <div class="word-wrap">
         <span class="point-code-tip">请在下面<span class="c-important">依次</span>点击：</span>
-        <img class="word" src="https://sxsimg.xiaoyuanzhao.com/validate/word/251.png" alt="">
+        <img class="word" src="https://sxsimg.xiaoyuanzhao.com/validate/word/158.png" alt="">
     </div>
     <div class="point-wrap">
         <div class="point-img-wrap">
-            <img class="img" src="https://sxsimg.xiaoyuanzhao.com/validate/pic/251.png" alt="">
+            <img class="img" src="https://sxsimg.xiaoyuanzhao.com/validate/pic/158.png" alt="">
             <span class="error-tip">验证失败，请重试</span>
         </div>
     </div>
@@ -1524,7 +697,7 @@ s.parentNode.insertBefore(hm, s);
 <div class="register-link">
 <div class="text">还没有实习僧账号？</div>
 
-<a href="/user/register?next=%2Finterns%2Fc-110100_st-intern_%3Fk%3D%25E6%2595%25B0%25E6%258D%25AE">直接注册&gt;</a>
+<a href="/user/register?next=%2Fintern%2Finn_43ci5nyosovy">直接注册&gt;</a>
 </div>
 <div class="other-login">
 <div class="text">使用以下账号直接登录</div>
@@ -1591,7 +764,7 @@ s.parentNode.insertBefore(hm, s);
 </div>
 </div>
 <!--反馈，回头部等-->
-<div id="back_top" style="display: none;">
+<div id="back_top">
 <div class="back-img"></div>
 <div class="back-text">回到顶部</div>
 </div>
@@ -1617,7 +790,7 @@ s.parentNode.insertBefore(hm, s);
 <!--</div>-->
 <input type="text" id="sswitch" value="1" name="" hidden="hidden">
 <script>
-var login_sdtoken = "kza33SVVMhGiWzT28spDC1i9CA2L3nqL";
+var login_sdtoken = "b3BP3L6QstqPw2z0CwAv2s1PXKu62kEZ";
 </script>
 <script src="https://sxsimg.xiaoyuanzhao.com/static/new_main/js/jquery-1.11.3.min.js?v=895323ed2f7258af4fae2c738c8aea49"></script>
 <script src="https://sxsimg.xiaoyuanzhao.com/static/js/cite/jquery-creatBox.js?v=82c2673dd5490b77ee4d2a6fd2e8c56b"></script>
@@ -1643,29 +816,76 @@ var login_sdtoken = "kza33SVVMhGiWzT28spDC1i9CA2L3nqL";
 
 <!--<script src="//assets.kf5.com/supportbox/main.js" id="kf5-provide-supportBox" kf5-domain="shixiseng.kf5.com"></script>-->
 
-<script src="https://sxsimg.xiaoyuanzhao.com/static/new_main/js/search-list2.js?v=aeae7309326619da9030fa87fa08bb45"></script>
 <script>
-var dataJson = [{
-ad_position: 'P_2_1',
-max_num: 10
-}];
-getRecommend($('.search-bar .btn1 span').text(),dataJson,function(data) {
-var data1 = data.msg.P_2_1;
-if(data1 && data1.length>0) {
-$.each(data1,function(i,val){
-$('.recommend').append('<a href="'+val.redirect+'" target="_blank" data-simg="'+val.hideimg+'"'
-+ 'data-sa="click" data-sevent="ad_click" data-starget="'+ val.redirect +'" data-sinfo={"ad_uuid":"'+val.campaign_uuid+'"} data-sname="162">'
-+ '<img src="'+val.hideimg+'" class="hideimg"><img src="'+val.img+'" alt="'+val.title+'">'
-+ '</a>');
+var is_login = false,
+flag = "user",
+intern_uuid = "inn_43ci5nyosovy",
+checkstatus = "None",
+checkinfo = "None";
+
+var newJobListen = 'https://sxsimg.xiaoyuanzhao.com/static/new_main/img/new-job-listen.png?v=3b943001c3b63414dd06a1b62e988d19',
+freeIcon = 'https://sxsimg.xiaoyuanzhao.com/static/new_main/img/new-job-free.png?v=990d3287f69edaec1a3697a812fab1a7',
+arrow = 'https://sxsimg.xiaoyuanzhao.com/static/new_main/img/new-job-right.png?v=e5a39aa82646cd7d1cd892edd81cb699',
+effect_resume = false;
+var resume_service_host ='';
+if (window.location.host == 'www.shixiseng.com' || window.location.host == 'apptoby.shixiseng.com' ) {
+resume_service_host = 'https://resume.shixiseng.com'
+} else if (window.location.host == 'wwwtest.shixiseng.com'){
+resume_service_host = 'https://test-resume.shixiseng.com'
+} else {
+resume_service_host = 'http://resume.sxsdev.com'
+}
+</script>
+<script src="https://sxsimg.xiaoyuanzhao.com/static/js/cite/jquery.datetimepicker.js?v=73ba5cfb741fd00574e7c0139d2a7355"></script>
+<script src="https://sxsimg.xiaoyuanzhao.com/static/js/cite/jquery-creatBox.js?v=82c2673dd5490b77ee4d2a6fd2e8c56b"></script>
+<script src="https://sxsimg.xiaoyuanzhao.com/static/js/citypicker/city-data.js?v=a4c7ca963fdc7792d029921b8b77c7e4"></script>
+<script src="https://sxsimg.xiaoyuanzhao.com/static/js/citypicker/hzw-city-picker.min.js?v=cd383e6f96dfd4bdd6c625ce6884bcea"></script>
+<script src="https://sxsimg.xiaoyuanzhao.com/static/js/webuploader.js?v=bf448310ed783f8c2bc0474e5cc9825b"></script>
+<script src="https://sxsimg.xiaoyuanzhao.com/static/js/job_details.js?v=4a7b563bcbedb78b1fe01ac6b87c505c"></script>
+
+<script src="//api.map.baidu.com/api?v=2.0&amp;ak=jzmyjT2LtlKsMNCenSfdBwOn&amp;s=1"></script><script type="text/javascript" src="https://api.map.baidu.com/getscript?v=2.0&amp;ak=jzmyjT2LtlKsMNCenSfdBwOn&amp;services=&amp;t=20190123111209"></script>
+<script src="https://sxsimg.xiaoyuanzhao.com/static/js/sxs.jq.modal/sxs.jq.modal.js?v=90659eb45e4496d7c838b7e9693c232e"></script>
+<script>
+$(".job_more .share").on("click",function () {
+var $share_icons = $(this).find(".job_det_share");
+if($share_icons.hasClass("job_det_share_show")){
+$share_icons.removeClass("job_det_share_show");
+}else{
+$share_icons.addClass("job_det_share_show");
+}
 })
+var $p = $(".job_city");
+$(".search_map").on("click",function () {
+if($("#mapBox").length<1){
+$p.append($('<div id="mapBox" class="mapBoxCss"></div>'));
+$("#mapBox").addClass("mapBoxCss_show");
+var map = new BMap.Map("mapBox");
+//控件添加
+var point = new BMap.Point(116.331398,39.897445);//初始化坐标点
+map.centerAndZoom(point, 15);
+map.enableScrollWheelZoom(true);//允许缩放
+var gc = new BMap.Geocoder();//地址定位、地址解析
+var local = new BMap.LocalSearch(map, {
+renderOptions:{map: map}
+});
+var address = $.trim($(".com_position").text());
+var city = $(".job_position").text();
+map.setCurrentCity(city);
+map.setCenter(address);
+map.setZoom(15);
+gc.getPoint(address, function(point){
+if (point) {
+map.centerAndZoom(point, 15);
+map.addOverlay(new BMap.Marker(point));
+}
+}, city);
+$(this).text("收起地图");
+}else{
+$("#mapBox").addClass("mapBoxCss_show");
+$(".mapBoxCss").remove();
+$(this).text("查看地图");
 }
 });
-$(".md_hid").click(function () {
-$("#md_hid").attr("data-sinfo",$(this).attr("data-sinfo"));
-$("#md_hid").attr("data-sname",$(this).attr("data-sname"));
-$("#md_hid").attr("data-desc",$(this).attr("data-desc"));
-$("#md_hid").click();
-})
 </script>
 
 <script>
@@ -1711,7 +931,7 @@ agentToken: '0b0b1e8e3ee191fc1c42ed94d512aa45'
 _MEIQIA('fallback', 1);
 // 传递顾客信息
 _MEIQIA('metadata', {
-"name": "usr_vwieohj6bbfx",
+"name": "None",
 "email": "",
 "phone": "",
 //自定义用户信息
