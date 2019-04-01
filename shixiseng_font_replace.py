@@ -6,7 +6,7 @@ import pandas as pd
 import utils
 
 search_word = '数据'
-page_num = 1
+page_num = 5
 root_path = 'https://www.shixiseng.com'
 headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36",
             "Connection": "keep-alive",
@@ -14,13 +14,12 @@ headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
             "Accept-Language": "zh-CN,zh;q=0.8"}
 total_page = 0
 table_columns = ['Title', 'Refresh_time', 'Job_money', 'Day_per_week', 'Company', 'Description', 'Address']
-
+info = {}
+for _ in table_columns:
+    info[_] = []
 
 for homepage_num in range(1, page_num+1):
     print('Homepage No.{} scraping started.'.format(homepage_num))
-    info = {}
-    for _ in table_columns:
-        info[_] = []
     homepage_path = 'https://www.shixiseng.com/interns/c-110100_?k={}&p={}'.format(search_word, homepage_num)
     r = requests.get(homepage_path, headers=headers)
     soup = BeautifulSoup(r.content, 'html.parser')
