@@ -4,7 +4,7 @@ import re
 import pandas as pd
 import time
 
-homepage = 'https://task.zbj.com/t-rjkf/page{}.html?so=2&ss=1&dt=4'
+homepage = 'https://task.zbj.com/t-cpwgsj/page{}.html?so=2&ss=0'
 headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36",
             "Connection": "keep-alive",
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
@@ -42,17 +42,23 @@ def get_content(subpage_url):
     return title, money, requirement_text
 
 
-for homepage_num in range(1, PAGE_NUM+1):
+for homepage_num in range(201, 203):
     subpages = get_subpages(homepage.format(homepage_num))
     print('No.{} homepage scrapied.'.format(homepage_num))
     for subpage in subpages:
         subpage_url = 'http:' + subpage
-        title, money, requirement = get_content(subpage_url)
-        info['Title'].append(title)
-        info['Money'].append(money)
-        info['Requirement'].append(requirement)
-        info['Link'].append(subpage_url)
-        print('Page:{} scrapied'.format(subpage_url))
+        try:
+            title, money, requirement = get_content(subpage_url)
+            info['Title'].append(title)
+            info['Money'].append(money)
+            info['Requirement'].append(requirement)
+            info['Link'].append(subpage_url)
+            print('Page:{} scrapied'.format(subpage_url))
+        except:
+            print('Page:{} error!'.format(subpage_url))
+            continue
+
+
 
     df = pd.DataFrame(info)
     df = df[df_columns]

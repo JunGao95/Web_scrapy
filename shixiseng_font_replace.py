@@ -20,7 +20,7 @@ for _ in table_columns:
 
 for homepage_num in range(1, page_num+1):
     print('Homepage No.{} scraping started.'.format(homepage_num))
-    homepage_path = 'https://www.shixiseng.com/interns/c-110100_?k={}&p={}'.format(search_word, homepage_num)
+    homepage_path = 'https://www.shixiseng.com/interns/c-110100_?k={}&p={}&t=zj'.format(search_word, homepage_num)
     r = requests.get(homepage_path, headers=headers)
     soup = BeautifulSoup(r.content, 'html.parser')
     subpage_paths = []
