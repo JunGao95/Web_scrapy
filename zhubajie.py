@@ -42,7 +42,7 @@ def get_content(subpage_url):
     return title, money, requirement_text
 
 
-for homepage_num in range(201, 203):
+for homepage_num in range(1, PAGE_NUM+1):
     subpages = get_subpages(homepage.format(homepage_num))
     print('No.{} homepage scrapied.'.format(homepage_num))
     for subpage in subpages:
